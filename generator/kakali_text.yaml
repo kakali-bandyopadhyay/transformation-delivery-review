@@ -117,7 +117,7 @@ PLAN:
     "The client reporting lead tracks self-service share monthly against the 40% gate; if it is below 40% at 31 Dec 2026 (forecast), phase 2 funding stays held until the exec sponsor approves release."
 PAGE_TEXT:
   cover_purpose:  # Cover, under the title
-    "A four-page review pack that ends in decisions: portfolio, governance, vendor workforce and commercial exposure, on simulated data."
+    "A review pack whose four core pages end in decisions: portfolio, governance, vendor workforce and commercial exposure, on simulated data."
   e42_note:  # Page 4, under E4.2 (labelled Recommendation - not a logged decision)
     "Recommend the Head of Client Reporting, with Corporate Services, re-engages its 34 trained but inactive users by 31 Dec 2026: 35% trained-to-active against 67-70% elsewhere; 32.4% overall is below the 40% gate."
   cadence_rationale:  # Cadence page, under the three measures
