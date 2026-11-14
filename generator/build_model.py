@@ -1216,6 +1216,11 @@ def build():
     word_hits = sum(len(re.findall(r"\b"+word+r"\b", text.casefold().replace(allowed.casefold(),""))) for text in text_values)
     asm["K72"] = firm_hits
     asm["K73"] = word_hits
+    for sheet in wb.worksheets:
+        for row in sheet.iter_rows():
+            for cell in row:
+                if cell.has_style and cell.font.name is None:
+                    cell.font = cell.font.copy(name="Calibri")
     OUTPUT.parent.mkdir(parents=True,exist_ok=True)
     wb.save(OUTPUT)
     return {"output":str(OUTPUT),"sheets":wb.sheetnames,"phasing":phases,"demand_rows":len(demand_data),"supply_rows":len(supply_data),"checks_row":checks_row,"all_row":allrow,"page_text_cells":page_text_cells,"roadmap_transition_cells":roadmap_transition_cells,"pdf_metadata_cells":pdf_metadata_cells}

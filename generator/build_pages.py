@@ -85,14 +85,11 @@ def run_recalc_pipeline():
     shutil.copy2(OUT_MODEL, source / "model.xlsx")
     profile_uri = profile.resolve().as_uri()
     creation_flags = getattr(subprocess, "CREATE_NO_WINDOW", 0)
-    first = subprocess.run(
-        [SOFFICE, f"-env:UserInstallation={profile_uri}", "--headless", "--convert-to", "ods", "--outdir", str(ods_dir), str(source / "model.xlsx")],
-        capture_output=True, text=True, timeout=120, creationflags=creation_flags,
-    )
-    if first.returncode or not (ods_dir / "model.ods").exists():
-        raise RuntimeError(f"LibreOffice xlsx-to-ods recalc failed: {first.stdout}\n{first.stderr}")
+    # Direct xlsx -> xlsx conversion: LibreOffice computes every formula on load and keeps
+    # explicit font colours. The old xlsx -> ods -> xlsx round trip reset all font colours
+    # to theme "Text 1" (black), which made header text invisible in Excel.
     second = subprocess.run(
-        [SOFFICE, f"-env:UserInstallation={profile_uri}", "--headless", "--convert-to", "xlsx:Calc MS Excel 2007 XML", "--outdir", str(xlsx_dir), str(ods_dir / "model.ods")],
+        [SOFFICE, f"-env:UserInstallation={profile_uri}", "--headless", "--convert-to", "xlsx:Calc MS Excel 2007 XML", "--outdir", str(xlsx_dir), str(source / "model.xlsx")],
         capture_output=True, text=True, timeout=120, creationflags=creation_flags,
     )
     recalced = xlsx_dir / "model.xlsx"
