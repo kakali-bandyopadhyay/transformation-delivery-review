@@ -1,0 +1,124 @@
+# Own-words text for the named text cells – written by Kakali Bandyopadhyay, 14 Nov 2026.
+# Loaded verbatim into the named cells by the generator; the wording is never edited by code.
+version: 1
+DECISIONS:
+  C5:  # D1 Decision
+    Stopped the CRM replacement and re-scoped to configuration, because 62% of the required capability already sat in the incumbent platform.
+  E5:  # D1 Evidence
+    14 user interviews; 62% of the required capability already existed in the incumbent platform.
+  G5:  # D1 Outcome
+    Configured build live in 11 weeks, around June 2026; $4.8m of replacement scope withdrawn and $0.9m moved from line 1 to fund it.
+  C6:  # D2 Decision
+    'Re-baselined the portfolio to fit capacity: deferred client portal, cloud wave 2 and finance close, and stopped ESG data.'
+  E6:  # D2 Evidence
+    Peak demand 205 against supply of 186.
+  G6:  # D2 Outcome
+    Envelope held at $42.84m; eight funded, three deferred, two stopped; 19 unfilled requisitions cancelled, so peak demand matches supply at 186.
+  C7:  # D3 Decision
+    Re-competed vendor B, with a remediation parallel run at its cost and two milestone payments held until a 2.0% exit gate was met.
+  E7:  # D3 Evidence
+    Defect escape 4.1% against a 1.5% threshold, with two SLA breaches in a quarter.
+  G7:  # D3 Outcome
+    Exit gate met at 1.6% in 54 days; the two held payments released, no added spend. Vendor B stays amber until 1.5% holds two consecutive months, not reached at the cut-off.
+  C8:  # D4 Decision
+    Phased two regulatory reports into phase 2 to protect the 29 Jan 2027 regulatory date, forecast, rather than moving the date or crashing the plan.
+  E8:  # D4 Evidence
+    Float at zero and the date is set by the regulator.
+  G8:  # D4 Outcome
+    Two reports phased; float rebuilt to 11 days; data-engineering need down from six to four. The 29 Jan 2027 date is protected, forecast.
+  C9:  # D5 Decision
+    Paused AI expansion at the evaluation gate, keeping the two use cases that passed, re-scoping five and retiring two.
+  E9:  # D5 Evidence
+    'Evaluation gate: 2 of 9 AI use cases passed held-out testing.'
+  G9:  # D5 Outcome
+    Two stay live in current scope; of the seven that failed, five re-scoped and two retired. Re-entry gate 31 Dec 2026, forecast.
+PORTFOLIO:
+  Q5:  # Line 1 Stop condition
+    Pause if migration of the first two business units is below 60% complete by 30 Jun 2027, forecast.
+  R5:  # Line 1 User outcome
+    Client operations staff can work from one platform, measured by handoffs per client event.
+  Q6:  # Line 2 Stop condition
+    Phase 2 releases only if self-service reporting reaches 40% of target users by Q4 2026, forecast.
+  R6:  # Line 2 User outcome
+    Investors can pull their own reports, measured by self-service share of report requests.
+  Q7:  # Line 3 Stop condition
+    Pause if two business units are not live on the golden source by 31 Dec 2026, forecast.
+  R7:  # Line 3 User outcome
+    Risk and product teams can see one position per client, measured by reconciliation breaks.
+  Q8:  # Line 4 Stop condition
+    Spend beyond Q2 2026 only if it clears the held-out evaluation gate; re-entry 31 Dec 2026, forecast.
+  R8:  # Line 4 User outcome
+    Deal teams can extract terms from documents without re-keying, measured by minutes per document.
+  P9:  # Line 5 Re-entry trigger
+    Re-enter if the configured build misses its adoption target by 31 Mar 2027, as a new funding request, no earlier than Q1 2028.
+  Q9:  # Line 5 Stop condition
+    Stopped because 62% of the required capability already sat in the incumbent platform, found across 14 user interviews.
+  R9:  # Line 5 User outcome
+    Client service teams can see one client record, measured by time spent reconciling client data.
+  Q10:  # Line 5a Stop condition
+    Live Jun 2026 (met); pause if adoption is below 70% of target users by 31 Mar 2027, forecast (threshold an assumption).
+  R10:  # Line 5a User outcome
+    Client service teams can see one client record, measured by time spent reconciling client data.
+  Q11:  # Line 6 Stop condition
+    Mandatory, cannot be stopped; if float falls below 11 days again, further reports move to phase 2 on exec sponsor and Compliance decision.
+  R11:  # Line 6 User outcome
+    Compliance can file the required returns on time, measured by returns filed by the 29 Jan 2027 deadline, forecast.
+  P12:  # Line 7 Re-entry trigger
+    Re-enter when wave 1 run-cost savings pay back migration cost within 24 months (assumption), no earlier than Q1 2029.
+  Q12:  # Line 7 Stop condition
+    Closed if that run-cost threshold is not met by 30 Jun 2028, forecast.
+  R12:  # Line 7 User outcome
+    Platform teams can host new workloads without new hardware, measured by cost per workload.
+  Q13:  # Line 8 Stop condition
+    Pause if active vendors are not down to three by 31 Dec 2027, forecast (assumption).
+  R13:  # Line 8 User outcome
+    Procurement can manage the estate on one scorecard, measured by number of active contracts.
+  Q14:  # Line 9 Stop condition
+    Pause if control coverage is below 90% of the priority set by 31 Mar 2027, forecast. Threshold is an assumption.
+  R14:  # Line 9 User outcome
+    Security operations can detect priority threats in hours, measured by mean time to detect. Assumption.
+  P15:  # Line 10 Re-entry trigger
+    Re-enter when the golden source is live and the close still takes more than five days (assumption), as a new funding request outside the envelope, no earlier than Q1 2028.
+  Q15:  # Line 10 Stop condition
+    Closed if the close cycle is five days or fewer by 31 Dec 2027, forecast.
+  R15:  # Line 10 User outcome
+    Finance can close the month without manual reconciliation, measured by days to close.
+  P16:  # Line 11 Re-entry trigger
+    Re-enter when self-service adoption on the investor reporting uplift passes 40%, as a new funding request outside the envelope, no earlier than Q4 2027.
+  Q16:  # Line 11 Stop condition
+    Closed if adoption is below 40% by 31 Dec 2027, forecast.
+  R16:  # Line 11 User outcome
+    Investors can view holdings and statements without asking for a report, measured by requests handled.
+  P17:  # Line 12 Re-entry trigger
+    Re-enter when a funded owner is named and the disclosure requirement is confirmed, as a new funding request outside the envelope, no earlier than Q1 2028.
+  Q17:  # Line 12 Stop condition
+    Stopped because no funded owner could be named after the Q1 2026 review.
+  R17:  # Line 12 User outcome
+    Reporting teams can produce the required disclosures from one dataset, measured by manual effort per report.
+
+# Stage B2 additions – mitigations and page text, 14 Nov 2026.
+VENDORS:
+  H49:  # KP1 Mitigation
+    "Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+  H50:  # KP2 Mitigation
+    "From 1 Apr 2026 a second vendor D engineer keeps the pipeline with weekly handover notes; absence beyond 5 working days escalates to the data workstream lead within 1 working day. Fallback: named replacement."
+  H51:  # SS1 Mitigation
+    "Two vendor B analysts are trained on the schema before build starts 1 Jul 2026, with a signed schema pack; if one leaves, the other covers and R2 applies to any float loss."
+PLAN:
+  F36:  # R1 Mitigation
+    "Vendor D's six data engineers start 1 Apr 2026 behind M1's retrained eight; if either slips a month the golden source moves a month, and the data workstream lead escalates within 1 working day."
+  F37:  # R2 Mitigation
+    "If float falls below 11 working days, further reports move to phase 2 by exec sponsor and Compliance decision; the regulatory workstream lead re-forecasts within 5 working days (assumption)."
+  F38:  # R3 Mitigation
+    "Vendor B stays amber until 1.5% holds two consecutive months; a relapse above 2.0% returns to Procurement for re-compete, with the vendor manager reporting monthly to the exec sponsor."
+  F39:  # R4 Mitigation
+    "As KP2; if cover fails, the data workstream lead escalates to the programme director within 2 working days, and vendor D names a replacement lead."
+  F40:  # R5 Mitigation
+    "The client reporting lead tracks self-service share monthly against the 40% gate; if it is below 40% at 31 Dec 2026 (forecast), phase 2 funding stays held until the exec sponsor approves release."
+PAGE_TEXT:
+  cover_purpose:  # Cover, under the title
+    "A four-page review pack that ends in decisions: portfolio, governance, vendor workforce and commercial exposure, on simulated data."
+  e42_note:  # Page 4, under E4.2 (labelled Recommendation - not a logged decision)
+    "Recommend the Head of Client Reporting, with Corporate Services, re-engages its 34 trained but inactive users by 31 Dec 2026: 35% trained-to-active against 67-70% elsewhere; 32.4% overall is below the 40% gate."
+  cadence_rationale:  # Cadence page, under the three measures
+    "These three answer what a managing director asks monthly: is the regulatory date safe (11 working days of float), is adoption moving (32.4% against 40%), and how much reserve is left ($1.86m)."

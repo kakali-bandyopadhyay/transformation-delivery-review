@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.lo_profile/
+.lo_recalc/
+.venv/
+.env
+.env.*
+*.py[cod]
+/out/_preview/
+/out/_recalc/

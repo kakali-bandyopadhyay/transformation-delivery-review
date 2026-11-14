@@ -1,0 +1,1285 @@
+page,exhibit,text as printed,tab!cell,workbook value
+1,Cover,31,ASSUMPTIONS!C6,2026-10-31
+1,Cover,2026,ASSUMPTIONS!C6,2026-10-31
+1,Cover,14,ASSUMPTIONS!B123,2026-11-14
+1,Cover,2026,ASSUMPTIONS!B123,2026-11-14
+1,Footer,31 Oct 2026,ASSUMPTIONS!C6,2026-10-31
+1,Footer,14 Nov 2026,ASSUMPTIONS!B123,2026-11-14
+1,Footer,1,ASSUMPTIONS!B125,1
+1,Footer,7,ASSUMPTIONS!B124,7
+2,Page title,2,ASSUMPTIONS!B126,2
+2,E1.1,1,PORTFOLIO!A5,1
+2,E1.1,0.9,PORTFOLIO!I5,0.9
+2,E1.1,5.4,PORTFOLIO!J5,5.4
+2,E1.1,4.8,PORTFOLIO!K5,4.8
+2,E1.1,0.0,PORTFOLIO!L5,0
+2,E1.1,2,PORTFOLIO!A6,2
+2,E1.1,1.5,PORTFOLIO!I6,1.5
+2,E1.1,2.6,PORTFOLIO!J6,2.6
+2,E1.1,2.4,PORTFOLIO!K6,2.4
+2,E1.1,0.0,PORTFOLIO!L6,0
+2,E1.1,3,PORTFOLIO!A7,3
+2,E1.1,1.3,PORTFOLIO!I7,1.3
+2,E1.1,7.2,PORTFOLIO!J7,7.2
+2,E1.1,0.5,PORTFOLIO!K7,0.5
+2,E1.1,0.0,PORTFOLIO!L7,0
+2,E1.1,4,PORTFOLIO!A8,4
+2,E1.1,1.4,PORTFOLIO!I8,1.4
+2,E1.1,0.8,PORTFOLIO!J8,0.8
+2,E1.1,1.0,PORTFOLIO!K8,1
+2,E1.1,0.0,PORTFOLIO!L8,0
+2,E1.1,2026,PORTFOLIO!O8,"Fund, gated at Q2 2026 review - paused Jul 2026 (D5); Year 2-3 spend conditional on 31 Dec 2026 re-entry gate (D5)"
+2,E1.1,5,PORTFOLIO!A9,5
+2,E1.1,0.0,PORTFOLIO!I9,0
+2,E1.1,0.0,PORTFOLIO!J9,0
+2,E1.1,0.0,PORTFOLIO!K9,0
+2,E1.1,4.8,PORTFOLIO!L9,4.8
+2,E1.1,5,PORTFOLIO!A10,5a
+2,E1.1,0.9,PORTFOLIO!I10,0.9
+2,E1.1,0.0,PORTFOLIO!J10,0
+2,E1.1,0.0,PORTFOLIO!K10,0
+2,E1.1,0.0,PORTFOLIO!L10,0
+2,E1.1,6,PORTFOLIO!A11,6
+2,E1.1,3.5,PORTFOLIO!I11,3.5
+2,E1.1,1.5,PORTFOLIO!J11,1.5
+2,E1.1,0.1,PORTFOLIO!K11,0.1
+2,E1.1,0.0,PORTFOLIO!L11,0
+2,E1.1,7,PORTFOLIO!A12,7
+2,E1.1,2,PORTFOLIO!B12,Cloud migration wave 2
+2,E1.1,0.0,PORTFOLIO!I12,0
+2,E1.1,0.0,PORTFOLIO!J12,0
+2,E1.1,0.0,PORTFOLIO!K12,0
+2,E1.1,7.4,PORTFOLIO!L12,7.4
+2,E1.1,8,PORTFOLIO!A13,8
+2,E1.1,0.9,PORTFOLIO!I13,0.9
+2,E1.1,0.1,PORTFOLIO!J13,0.1
+2,E1.1,0.1,PORTFOLIO!K13,0.1
+2,E1.1,0.0,PORTFOLIO!L13,0
+2,E1.1,9,PORTFOLIO!A14,9
+2,E1.1,3.8,PORTFOLIO!I14,3.8
+2,E1.1,0.0,PORTFOLIO!J14,0
+2,E1.1,0.1,PORTFOLIO!K14,0.1
+2,E1.1,0.0,PORTFOLIO!L14,0
+2,E1.1,10,PORTFOLIO!A15,10
+2,E1.1,0.0,PORTFOLIO!I15,0
+2,E1.1,0.0,PORTFOLIO!J15,0
+2,E1.1,0.0,PORTFOLIO!K15,0
+2,E1.1,2.8,PORTFOLIO!L15,2.8
+2,E1.1,11,PORTFOLIO!A16,11
+2,E1.1,0.0,PORTFOLIO!I16,0
+2,E1.1,0.0,PORTFOLIO!J16,0
+2,E1.1,0.0,PORTFOLIO!K16,0
+2,E1.1,5.6,PORTFOLIO!L16,5.6
+2,E1.1,12,PORTFOLIO!A17,12
+2,E1.1,0.0,PORTFOLIO!I17,0
+2,E1.1,0.0,PORTFOLIO!J17,0
+2,E1.1,0.0,PORTFOLIO!K17,0
+2,E1.1,2.4,PORTFOLIO!L17,2.4
+2,E1.1,14.2,PORTFOLIO!I18,14.2
+2,E1.1,17.6,PORTFOLIO!J18,17.6
+2,E1.1,9.0,PORTFOLIO!K18,9
+2,E1.1,23.0,PORTFOLIO!L18,23
+2,E1.1,63.8,PORTFOLIO!C21,63.8
+2,E1.1,40.8,PORTFOLIO!C22,40.8
+2,E1.1,15.8,PORTFOLIO!C23,15.8
+2,E1.1,7.2,PORTFOLIO!C24,7.2
+2,E1.2,2026,CAPACITY!A5,Q1 2026
+2,E1.2,2028,CAPACITY!A16,Q4 2028
+2,E1.2,31,ASSUMPTIONS!C6,2026-10-31
+2,E1.2,2026,ASSUMPTIONS!C6,2026-10-31
+2,E1.2,3,PORTFOLIO!B35,3
+2,E1.2,6,PORTFOLIO!B36,6
+2,E1.2,2026,PORTFOLIO!B40,Q3 2026
+2,E1.2,6,PORTFOLIO!B39,6
+2,E1.2,4,PORTFOLIO!B41,4
+2,E1.2,six,PORTFOLIO!B38,6
+2,E1.2,2026,CAPACITY!A5,Q1 2026
+2,E1.2,2026,CAPACITY!A6,Q2 2026
+2,E1.2,2026,CAPACITY!A7,Q3 2026
+2,E1.2,2026,CAPACITY!A8,Q4 2026
+2,E1.2,2027,CAPACITY!A9,Q1 2027
+2,E1.2,2027,CAPACITY!A10,Q2 2027
+2,E1.2,2027,CAPACITY!A11,Q3 2027
+2,E1.2,2027,CAPACITY!A12,Q4 2027
+2,E1.2,2028,CAPACITY!A13,Q1 2028
+2,E1.2,2028,CAPACITY!A14,Q2 2028
+2,E1.2,2028,CAPACITY!A15,Q3 2028
+2,E1.2,2028,CAPACITY!A16,Q4 2028
+2,E1.2,1,PORTFOLIO!A5,1
+2,E1.2,2,PORTFOLIO!A6,2
+2,E1.2,3,PORTFOLIO!A7,3
+2,E1.2,4,PORTFOLIO!A8,4
+2,E1.2,5,PORTFOLIO!A10,5a
+2,E1.2,6,PORTFOLIO!A11,6
+2,E1.2,8,PORTFOLIO!A13,8
+2,E1.2,9,PORTFOLIO!A14,9
+2,E1.2,2026,PORTFOLIO!B34,Q2 2026
+2,E1.2,3,PORTFOLIO!B35,3
+2,E1.2,6,PORTFOLIO!B36,6
+2,E1.2,6,PORTFOLIO!B38,6
+2,E1.2,6,PORTFOLIO!B39,6
+2,E1.2,2026,PORTFOLIO!B40,Q3 2026
+2,E1.2,4,PORTFOLIO!B41,4
+2,E1.2,2026,ASSUMPTIONS!C6,2026-10-31
+2,E1.2,10,ASSUMPTIONS!C6,2026-10-31
+2,E1.2,31,ASSUMPTIONS!C6,2026-10-31
+2,E1.2,00,ASSUMPTIONS!C6,2026-10-31
+2,E1.2,00,ASSUMPTIONS!C6,2026-10-31
+2,E1.2,00,ASSUMPTIONS!C6,2026-10-31
+2,E1.3,D1,DECISIONS!A5,D1
+2,E1.3,62%,PORTFOLIO!Q9,"Stopped because 62% of the required capability already sat in the incumbent platform, found across 14 user interviews."
+2,E1.3,14,PORTFOLIO!Q9,"Stopped because 62% of the required capability already sat in the incumbent platform, found across 14 user interviews."
+2,E1.3,31,PORTFOLIO!P9,"Re-enter if the configured build misses its adoption target by 31 Mar 2027, as a new funding request, no earlier than Q1 2028."
+2,E1.3,2027,PORTFOLIO!P9,"Re-enter if the configured build misses its adoption target by 31 Mar 2027, as a new funding request, no earlier than Q1 2028."
+2,E1.3,2028,PORTFOLIO!P9,"Re-enter if the configured build misses its adoption target by 31 Mar 2027, as a new funding request, no earlier than Q1 2028."
+2,E1.3,30,PORTFOLIO!Q12,"Closed if that run-cost threshold is not met by 30 Jun 2028, forecast."
+2,E1.3,2028,PORTFOLIO!Q12,"Closed if that run-cost threshold is not met by 30 Jun 2028, forecast."
+2,E1.3,1,PORTFOLIO!P12,"Re-enter when wave 1 run-cost savings pay back migration cost within 24 months (assumption), no earlier than Q1 2029."
+2,E1.3,24,PORTFOLIO!P12,"Re-enter when wave 1 run-cost savings pay back migration cost within 24 months (assumption), no earlier than Q1 2029."
+2,E1.3,2029,PORTFOLIO!P12,"Re-enter when wave 1 run-cost savings pay back migration cost within 24 months (assumption), no earlier than Q1 2029."
+2,E1.3,31,PORTFOLIO!Q15,"Closed if the close cycle is five days or fewer by 31 Dec 2027, forecast."
+2,E1.3,2027,PORTFOLIO!Q15,"Closed if the close cycle is five days or fewer by 31 Dec 2027, forecast."
+2,E1.3,2028,PORTFOLIO!P15,"Re-enter when the golden source is live and the close still takes more than five days (assumption), as a new funding request outside the envelope, no earlier than Q1 2028."
+2,E1.3,40%,PORTFOLIO!Q16,"Closed if adoption is below 40% by 31 Dec 2027, forecast."
+2,E1.3,31,PORTFOLIO!Q16,"Closed if adoption is below 40% by 31 Dec 2027, forecast."
+2,E1.3,2027,PORTFOLIO!Q16,"Closed if adoption is below 40% by 31 Dec 2027, forecast."
+2,E1.3,40%,PORTFOLIO!P16,"Re-enter when self-service adoption on the investor reporting uplift passes 40%, as a new funding request outside the envelope, no earlier than Q4 2027."
+2,E1.3,2027,PORTFOLIO!P16,"Re-enter when self-service adoption on the investor reporting uplift passes 40%, as a new funding request outside the envelope, no earlier than Q4 2027."
+2,E1.3,2026,PORTFOLIO!Q17,Stopped because no funded owner could be named after the Q1 2026 review.
+2,E1.3,2028,PORTFOLIO!P17,"Re-enter when a funded owner is named and the disclosure requirement is confirmed, as a new funding request outside the envelope, no earlier than Q1 2028."
+2,E1.3,5,PORTFOLIO!A9,5
+2,E1.3,7,PORTFOLIO!A12,7
+2,E1.3,2,PORTFOLIO!A12,7
+2,E1.3,10,PORTFOLIO!A15,10
+2,E1.3,11,PORTFOLIO!A16,11
+2,E1.3,12,PORTFOLIO!A17,12
+2,Decision forced,2026,DECISIONS!B6,Apr 2026
+2,Decision forced,2,DECISIONS!C6,"Re-baselined the portfolio to fit capacity: deferred client portal, cloud wave 2 and finance close, and stopped ESG data."
+2,Footer,31 Oct 2026,ASSUMPTIONS!C6,2026-10-31
+2,Footer,14 Nov 2026,ASSUMPTIONS!B123,2026-11-14
+2,Footer,2,ASSUMPTIONS!B126,2
+2,Footer,7,ASSUMPTIONS!B124,7
+3,Page title,3,ASSUMPTIONS!B127,3
+3,E2.1,1,PLAN!A5,M01
+3,E2.1,31,PLAN!C5,2026-03-31
+3,E2.1,2026,PLAN!C5,2026-03-31
+3,E2.1,8,PLAN!D5,M1 retrain lands (8 data engineers)
+3,E2.1,2,PLAN!A6,M02
+3,E2.1,01,PLAN!C6,2026-04-01
+3,E2.1,2026,PLAN!C6,2026-04-01
+3,E2.1,3,PLAN!A7,M03
+3,E2.1,30,PLAN!C7,2026-06-30
+3,E2.1,2026,PLAN!C7,2026-06-30
+3,E2.1,11,PLAN!D7,CRM configuration live (D1 + 11 weeks)
+3,E2.1,4,PLAN!A8,M04
+3,E2.1,31,PLAN!C8,2026-12-31
+3,E2.1,2026,PLAN!C8,2026-12-31
+3,E2.1,5,PLAN!A9,M05
+3,E2.1,30,PLAN!C9,2027-06-30
+3,E2.1,2027,PLAN!C9,2027-06-30
+3,E2.1,60%,PLAN!D9,Platform consolidation: first two business units 60% migrated
+3,E2.1,6,PLAN!A10,M06
+3,E2.1,30,PLAN!C10,2026-06-30
+3,E2.1,2026,PLAN!C10,2026-06-30
+3,E2.1,2,PLAN!D10,Two regulatory reports phased to phase 2 (D4)
+3,E2.1,7,PLAN!A11,M07
+3,E2.1,01,PLAN!C11,2026-07-01
+3,E2.1,2026,PLAN!C11,2026-07-01
+3,E2.1,2026,PLAN!D11,Regulatory change build starts (Q3 2026)
+3,E2.1,8,PLAN!A12,M08
+3,E2.1,14,PLAN!C12,2027-01-14
+3,E2.1,2027,PLAN!C12,2027-01-14
+3,E2.1,11,PLAN!D12,Regulatory change complete (forecast) – 11 working days before the date
+3,E2.1,9,PLAN!A13,M09
+3,E2.1,29,PLAN!C13,2027-01-29
+3,E2.1,2027,PLAN!C13,2027-01-29
+3,E2.1,0,PLAN!A14,M10
+3,E2.1,31,PLAN!C14,2027-03-31
+3,E2.1,2027,PLAN!C14,2027-03-31
+3,E2.1,90%,PLAN!D14,"Cyber: 90% control coverage of priority set (forecast, assumption)"
+3,E2.1,1,PLAN!A15,M11
+3,E2.1,24,PLAN!C15,2026-06-24
+3,E2.1,2026,PLAN!C15,2026-06-24
+3,E2.1,1.6%,PLAN!D15,Vendor B exit gate met at 1.6%
+3,E2.1,2,PLAN!A16,M12
+3,E2.1,31,PLAN!C16,2026-12-31
+3,E2.1,2026,PLAN!C16,2026-12-31
+3,E2.1,40%,PLAN!D16,Investor reporting: 40% self-service gate (forecast)
+3,E2.1,3,PLAN!A17,M13
+3,E2.1,31,PLAN!C17,2026-12-31
+3,E2.1,2026,PLAN!C17,2026-12-31
+3,E2.1,4,PLAN!A18,M14
+3,E2.1,31,PLAN!C18,2027-12-31
+3,E2.1,2027,PLAN!C18,2027-12-31
+3,E2.1,14,PLAN!A18,M14
+3,E2.1,1,PLAN!A5,M01
+3,E2.1,31,PLAN!C5,2026-03-31
+3,E2.1,2026,PLAN!C5,2026-03-31
+3,E2.1,8,PLAN!D5,M1 retrain lands (8 data engineers)
+3,E2.1,2,PLAN!A6,M02
+3,E2.1,01,PLAN!C6,2026-04-01
+3,E2.1,2026,PLAN!C6,2026-04-01
+3,E2.1,3,PLAN!A7,M03
+3,E2.1,30,PLAN!C7,2026-06-30
+3,E2.1,2026,PLAN!C7,2026-06-30
+3,E2.1,11,PLAN!D7,CRM configuration live (D1 + 11 weeks)
+3,E2.1,4,PLAN!A8,M04
+3,E2.1,31,PLAN!C8,2026-12-31
+3,E2.1,2026,PLAN!C8,2026-12-31
+3,E2.1,5,PLAN!A9,M05
+3,E2.1,30,PLAN!C9,2027-06-30
+3,E2.1,2027,PLAN!C9,2027-06-30
+3,E2.1,60%,PLAN!D9,Platform consolidation: first two business units 60% migrated
+3,E2.1,6,PLAN!A10,M06
+3,E2.1,30,PLAN!C10,2026-06-30
+3,E2.1,2026,PLAN!C10,2026-06-30
+3,E2.1,2,PLAN!D10,Two regulatory reports phased to phase 2 (D4)
+3,E2.1,7,PLAN!A11,M07
+3,E2.1,01,PLAN!C11,2026-07-01
+3,E2.1,2026,PLAN!C11,2026-07-01
+3,E2.1,2026,PLAN!D11,Regulatory change build starts (Q3 2026)
+3,E2.1,8,PLAN!A12,M08
+3,E2.1,14,PLAN!C12,2027-01-14
+3,E2.1,2027,PLAN!C12,2027-01-14
+3,E2.1,11,PLAN!D12,Regulatory change complete (forecast) – 11 working days before the date
+3,E2.1,9,PLAN!A13,M09
+3,E2.1,29,PLAN!C13,2027-01-29
+3,E2.1,2027,PLAN!C13,2027-01-29
+3,E2.1,0,PLAN!A14,M10
+3,E2.1,31,PLAN!C14,2027-03-31
+3,E2.1,2027,PLAN!C14,2027-03-31
+3,E2.1,90%,PLAN!D14,"Cyber: 90% control coverage of priority set (forecast, assumption)"
+3,E2.1,1,PLAN!A15,M11
+3,E2.1,24,PLAN!C15,2026-06-24
+3,E2.1,2026,PLAN!C15,2026-06-24
+3,E2.1,1.6%,PLAN!D15,Vendor B exit gate met at 1.6%
+3,E2.1,2,PLAN!A16,M12
+3,E2.1,31,PLAN!C16,2026-12-31
+3,E2.1,2026,PLAN!C16,2026-12-31
+3,E2.1,40%,PLAN!D16,Investor reporting: 40% self-service gate (forecast)
+3,E2.1,3,PLAN!A17,M13
+3,E2.1,31,PLAN!C17,2026-12-31
+3,E2.1,2026,PLAN!C17,2026-12-31
+3,E2.1,4,PLAN!A18,M14
+3,E2.1,31,PLAN!C18,2027-12-31
+3,E2.1,2027,PLAN!C18,2027-12-31
+3,E2.1,1,PLAN!B21,M01 → M02 → golden source data-engineering tranche (Apr–Jun 2026) → M07/M08 regulatory change build → M09 regulatory date
+3,E2.1,2,PLAN!B21,M01 → M02 → golden source data-engineering tranche (Apr–Jun 2026) → M07/M08 regulatory change build → M09 regulatory date
+3,E2.1,2026,PLAN!B21,M01 → M02 → golden source data-engineering tranche (Apr–Jun 2026) → M07/M08 regulatory change build → M09 regulatory date
+3,E2.1,7,PLAN!B21,M01 → M02 → golden source data-engineering tranche (Apr–Jun 2026) → M07/M08 regulatory change build → M09 regulatory date
+3,E2.1,8,PLAN!B21,M01 → M02 → golden source data-engineering tranche (Apr–Jun 2026) → M07/M08 regulatory change build → M09 regulatory date
+3,E2.1,9,PLAN!B21,M01 → M02 → golden source data-engineering tranche (Apr–Jun 2026) → M07/M08 regulatory change build → M09 regulatory date
+3,E2.1,1,PLAN!B21,M01 → M02 → golden source data-engineering tranche (Apr–Jun 2026) → M07/M08 regulatory change build → M09 regulatory date
+3,E2.1,2,PLAN!B21,M01 → M02 → golden source data-engineering tranche (Apr–Jun 2026) → M07/M08 regulatory change build → M09 regulatory date
+3,E2.1,2026,PLAN!B21,M01 → M02 → golden source data-engineering tranche (Apr–Jun 2026) → M07/M08 regulatory change build → M09 regulatory date
+3,E2.1,7,PLAN!B21,M01 → M02 → golden source data-engineering tranche (Apr–Jun 2026) → M07/M08 regulatory change build → M09 regulatory date
+3,E2.1,8,PLAN!B21,M01 → M02 → golden source data-engineering tranche (Apr–Jun 2026) → M07/M08 regulatory change build → M09 regulatory date
+3,E2.1,9,PLAN!B21,M01 → M02 → golden source data-engineering tranche (Apr–Jun 2026) → M07/M08 regulatory change build → M09 regulatory date
+3,E2.1,11,PLAN!B23,11
+3,E2.2,2,PLAN!A27,"Funding release, tranche 2"
+3,E2.2,10%,PLAN!A28,Scope change above 10% of a workstream
+3,E2.3,1,PLAN!F36,"Vendor D's six data engineers start 1 Apr 2026 behind M1's retrained eight; if either slips a month the golden source moves a month, and the data workstream lead escalates within 1 working day."
+3,E2.3,2026,PLAN!F36,"Vendor D's six data engineers start 1 Apr 2026 behind M1's retrained eight; if either slips a month the golden source moves a month, and the data workstream lead escalates within 1 working day."
+3,E2.3,1,PLAN!F36,"Vendor D's six data engineers start 1 Apr 2026 behind M1's retrained eight; if either slips a month the golden source moves a month, and the data workstream lead escalates within 1 working day."
+3,E2.3,11,PLAN!F37,"If float falls below 11 working days, further reports move to phase 2 by exec sponsor and Compliance decision; the regulatory workstream lead re-forecasts within 5 working days (assumption)."
+3,E2.3,2,PLAN!F37,"If float falls below 11 working days, further reports move to phase 2 by exec sponsor and Compliance decision; the regulatory workstream lead re-forecasts within 5 working days (assumption)."
+3,E2.3,5,PLAN!F37,"If float falls below 11 working days, further reports move to phase 2 by exec sponsor and Compliance decision; the regulatory workstream lead re-forecasts within 5 working days (assumption)."
+3,E2.3,1.5%,PLAN!F38,"Vendor B stays amber until 1.5% holds two consecutive months; a relapse above 2.0% returns to Procurement for re-compete, with the vendor manager reporting monthly to the exec sponsor."
+3,E2.3,2.0%,PLAN!F38,"Vendor B stays amber until 1.5% holds two consecutive months; a relapse above 2.0% returns to Procurement for re-compete, with the vendor manager reporting monthly to the exec sponsor."
+3,E2.3,2,PLAN!F39,"As KP2; if cover fails, the data workstream lead escalates to the programme director within 2 working days, and vendor D names a replacement lead."
+3,E2.3,40%,PLAN!A40,R5
+3,E2.3,40%,PLAN!F40,"The client reporting lead tracks self-service share monthly against the 40% gate; if it is below 40% at 31 Dec 2026 (forecast), phase 2 funding stays held until the exec sponsor approves release."
+3,E2.3,40%,PLAN!F40,"The client reporting lead tracks self-service share monthly against the 40% gate; if it is below 40% at 31 Dec 2026 (forecast), phase 2 funding stays held until the exec sponsor approves release."
+3,E2.3,31,PLAN!F40,"The client reporting lead tracks self-service share monthly against the 40% gate; if it is below 40% at 31 Dec 2026 (forecast), phase 2 funding stays held until the exec sponsor approves release."
+3,E2.3,2026,PLAN!F40,"The client reporting lead tracks self-service share monthly against the 40% gate; if it is below 40% at 31 Dec 2026 (forecast), phase 2 funding stays held until the exec sponsor approves release."
+3,E2.3,2,PLAN!F40,"The client reporting lead tracks self-service share monthly against the 40% gate; if it is below 40% at 31 Dec 2026 (forecast), phase 2 funding stays held until the exec sponsor approves release."
+3,E2.3,0.18,COMMERCIAL!B75,0.1836
+3,E2.3,1.86,COMMERCIAL!B76,1.8564
+3,E2.3,1,PLAN!B44,1 working day
+3,E2.3,2,PLAN!B45,2 working days
+3,E2.3,5,PLAN!B46,5 working days
+3,E2.3,1.6%,VENDORS!B30,1.6
+3,E2.3,54,VENDORS!J20,54
+3,E2.3,0,VENDORS!J22,0
+3,Decision forced,2026,DECISIONS!B8,Jun 2026
+3,Decision forced,2,DECISIONS!C8,"Phased two regulatory reports into phase 2 to protect the 29 Jan 2027 regulatory date, forecast, rather than moving the date or crashing the plan."
+3,Decision forced,29,DECISIONS!C8,"Phased two regulatory reports into phase 2 to protect the 29 Jan 2027 regulatory date, forecast, rather than moving the date or crashing the plan."
+3,Decision forced,2027,DECISIONS!C8,"Phased two regulatory reports into phase 2 to protect the 29 Jan 2027 regulatory date, forecast, rather than moving the date or crashing the plan."
+3,Footer,31 Oct 2026,ASSUMPTIONS!C6,2026-10-31
+3,Footer,14 Nov 2026,ASSUMPTIONS!B123,2026-11-14
+3,Footer,3,ASSUMPTIONS!B127,3
+3,Footer,7,ASSUMPTIONS!B124,7
+4,Page title,4,ASSUMPTIONS!B128,4
+4,E3.1,2026,CAPACITY!A5,Q1 2026
+4,E3.1,2026,CAPACITY!A6,Q2 2026
+4,E3.1,2026,CAPACITY!A7,Q3 2026
+4,E3.1,2026,CAPACITY!A8,Q4 2026
+4,E3.1,2027,CAPACITY!A9,Q1 2027
+4,E3.1,2027,CAPACITY!A10,Q2 2027
+4,E3.1,2027,CAPACITY!A11,Q3 2027
+4,E3.1,2027,CAPACITY!A12,Q4 2027
+4,E3.1,2028,CAPACITY!A13,Q1 2028
+4,E3.1,2028,CAPACITY!A14,Q2 2028
+4,E3.1,2028,CAPACITY!A15,Q3 2028
+4,E3.1,2028,CAPACITY!A16,Q4 2028
+4,E3.1,-14,CAPACITY!F3417,-14
+4,E3.1,0,CAPACITY!F3418,0
+4,E3.1,0,CAPACITY!F3419,0
+4,E3.1,0,CAPACITY!F3420,0
+4,E3.1,0,CAPACITY!F3421,0
+4,E3.1,0,CAPACITY!F3422,0
+4,E3.1,0,CAPACITY!F3423,0
+4,E3.1,0,CAPACITY!F3424,0
+4,E3.1,0,CAPACITY!F3425,0
+4,E3.1,0,CAPACITY!F3426,0
+4,E3.1,0,CAPACITY!F3427,0
+4,E3.1,0,CAPACITY!F3428,0
+4,E3.1,1,CAPACITY!F3429,1
+4,E3.1,1,CAPACITY!F3430,1
+4,E3.1,1,CAPACITY!F3431,1
+4,E3.1,0,CAPACITY!F3432,0
+4,E3.1,0,CAPACITY!F3433,0
+4,E3.1,0,CAPACITY!F3434,0
+4,E3.1,0,CAPACITY!F3435,0
+4,E3.1,1,CAPACITY!F3436,1
+4,E3.1,0,CAPACITY!F3437,0
+4,E3.1,1,CAPACITY!F3438,1
+4,E3.1,0,CAPACITY!F3439,0
+4,E3.1,1,CAPACITY!F3440,1
+4,E3.1,1,CAPACITY!F3441,1
+4,E3.1,0,CAPACITY!F3442,0
+4,E3.1,1,CAPACITY!F3443,1
+4,E3.1,1,CAPACITY!F3444,1
+4,E3.1,0,CAPACITY!F3445,0
+4,E3.1,1,CAPACITY!F3446,1
+4,E3.1,0,CAPACITY!F3447,0
+4,E3.1,1,CAPACITY!F3448,1
+4,E3.1,1,CAPACITY!F3449,1
+4,E3.1,0,CAPACITY!F3450,0
+4,E3.1,0,CAPACITY!F3451,0
+4,E3.1,0,CAPACITY!F3452,0
+4,E3.1,1,CAPACITY!F3453,1
+4,E3.1,0,CAPACITY!F3454,0
+4,E3.1,1,CAPACITY!F3455,1
+4,E3.1,0,CAPACITY!F3456,0
+4,E3.1,0,CAPACITY!F3457,0
+4,E3.1,0,CAPACITY!F3458,0
+4,E3.1,0,CAPACITY!F3459,0
+4,E3.1,0,CAPACITY!F3460,0
+4,E3.1,0,CAPACITY!F3461,0
+4,E3.1,0,CAPACITY!F3462,0
+4,E3.1,0,CAPACITY!F3463,0
+4,E3.1,0,CAPACITY!F3464,0
+4,E3.1,0,CAPACITY!F3465,0
+4,E3.1,6,CAPACITY!F3466,6
+4,E3.1,0,CAPACITY!F3467,0
+4,E3.1,0,CAPACITY!F3468,0
+4,E3.1,0,CAPACITY!F3469,0
+4,E3.1,0,CAPACITY!F3470,0
+4,E3.1,0,CAPACITY!F3471,0
+4,E3.1,0,CAPACITY!F3472,0
+4,E3.1,0,CAPACITY!F3473,0
+4,E3.1,0,CAPACITY!F3474,0
+4,E3.1,0,CAPACITY!F3475,0
+4,E3.1,0,CAPACITY!F3476,0
+4,E3.1,0,CAPACITY!F3477,0
+4,E3.1,0,CAPACITY!F3478,0
+4,E3.1,0,CAPACITY!F3479,0
+4,E3.1,0,CAPACITY!F3480,0
+4,E3.1,0,CAPACITY!F3481,0
+4,E3.1,0,CAPACITY!F3482,0
+4,E3.1,0,CAPACITY!F3483,0
+4,E3.1,0,CAPACITY!F3484,0
+4,E3.1,0,CAPACITY!F3485,0
+4,E3.1,0,CAPACITY!F3486,0
+4,E3.1,0,CAPACITY!F3487,0
+4,E3.1,0,CAPACITY!F3488,0
+4,E3.1,0,CAPACITY!F3489,0
+4,E3.1,0,CAPACITY!F3490,0
+4,E3.1,0,CAPACITY!F3491,0
+4,E3.1,0,CAPACITY!F3492,0
+4,E3.1,0,CAPACITY!F3493,0
+4,E3.1,0,CAPACITY!F3494,0
+4,E3.1,0,CAPACITY!F3495,0
+4,E3.1,0,CAPACITY!F3496,0
+4,E3.1,0,CAPACITY!F3497,0
+4,E3.1,0,CAPACITY!F3498,0
+4,E3.1,0,CAPACITY!F3499,0
+4,E3.1,0,CAPACITY!F3500,0
+4,E3.1,0,CAPACITY!F3501,0
+4,E3.1,0,CAPACITY!F3502,0
+4,E3.1,0,CAPACITY!F3503,0
+4,E3.1,0,CAPACITY!F3504,0
+4,E3.1,0,CAPACITY!F3505,0
+4,E3.1,0,CAPACITY!F3506,0
+4,E3.1,0,CAPACITY!F3507,0
+4,E3.1,0,CAPACITY!F3508,0
+4,E3.1,0,CAPACITY!F3509,0
+4,E3.1,0,CAPACITY!F3510,0
+4,E3.1,0,CAPACITY!F3511,0
+4,E3.1,0,CAPACITY!F3512,0
+4,E3.1,0,CAPACITY!F3513,0
+4,E3.1,0,CAPACITY!F3514,0
+4,E3.1,0,CAPACITY!F3515,0
+4,E3.1,0,CAPACITY!F3516,0
+4,E3.1,0,CAPACITY!F3517,0
+4,E3.1,0,CAPACITY!F3518,0
+4,E3.1,0,CAPACITY!F3519,0
+4,E3.1,0,CAPACITY!F3520,0
+4,E3.1,0,CAPACITY!F3521,0
+4,E3.1,0,CAPACITY!F3522,0
+4,E3.1,0,CAPACITY!F3523,0
+4,E3.1,0,CAPACITY!F3524,0
+4,E3.1,0,CAPACITY!F3525,0
+4,E3.1,0,CAPACITY!F3526,0
+4,E3.1,0,CAPACITY!F3527,0
+4,E3.1,0,CAPACITY!F3528,0
+4,E3.1,0,CAPACITY!F3529,0
+4,E3.1,0,CAPACITY!F3530,0
+4,E3.1,0,CAPACITY!F3531,0
+4,E3.1,0,CAPACITY!F3532,0
+4,E3.1,0,CAPACITY!F3533,0
+4,E3.1,0,CAPACITY!F3534,0
+4,E3.1,0,CAPACITY!F3535,0
+4,E3.1,0,CAPACITY!F3536,0
+4,E3.1,0,CAPACITY!F3537,0
+4,E3.1,0,CAPACITY!F3538,0
+4,E3.1,0,CAPACITY!F3539,0
+4,E3.1,0,CAPACITY!F3540,0
+4,E3.1,0,CAPACITY!F3541,0
+4,E3.1,0,CAPACITY!F3542,0
+4,E3.1,0,CAPACITY!F3543,0
+4,E3.1,1,CAPACITY!F3544,1
+4,E3.1,0,CAPACITY!F3545,0
+4,E3.1,1,CAPACITY!F3546,1
+4,E3.1,0,CAPACITY!F3547,0
+4,E3.1,0,CAPACITY!F3548,0
+4,E3.1,0,CAPACITY!F3549,0
+4,E3.1,1,CAPACITY!F3550,1
+4,E3.1,0,CAPACITY!F3551,0
+4,E3.1,0,CAPACITY!F3552,0
+4,E3.1,0,CAPACITY!F3553,0
+4,E3.1,0,CAPACITY!F3554,0
+4,E3.1,0,CAPACITY!F3555,0
+4,E3.1,0,CAPACITY!F3556,0
+4,E3.1,0,CAPACITY!F3557,0
+4,E3.1,1,CAPACITY!F3558,1
+4,E3.1,0,CAPACITY!F3559,0
+4,E3.1,0,CAPACITY!F3560,0
+4,E3.1,0,CAPACITY!F3561,0
+4,E3.1,1,CAPACITY!F3562,1
+4,E3.1,0,CAPACITY!F3563,0
+4,E3.1,0,CAPACITY!F3564,0
+4,E3.1,0,CAPACITY!F3565,0
+4,E3.1,0,CAPACITY!F3566,0
+4,E3.1,0,CAPACITY!F3567,0
+4,E3.1,0,CAPACITY!F3568,0
+4,E3.1,1,CAPACITY!F3569,1
+4,E3.1,0,CAPACITY!F3570,0
+4,E3.1,0,CAPACITY!F3571,0
+4,E3.1,0,CAPACITY!F3572,0
+4,E3.1,0,CAPACITY!F3573,0
+4,E3.1,0,CAPACITY!F3574,0
+4,E3.1,1,CAPACITY!F3575,1
+4,E3.1,0,CAPACITY!F3576,0
+4,E3.1,0,CAPACITY!F3577,0
+4,E3.1,0,CAPACITY!F3578,0
+4,E3.1,0,CAPACITY!F3579,0
+4,E3.1,0,CAPACITY!F3580,0
+4,E3.1,0,CAPACITY!F3581,0
+4,E3.1,0,CAPACITY!F3582,0
+4,E3.1,0,CAPACITY!F3583,0
+4,E3.1,0,CAPACITY!F3584,0
+4,E3.1,0,CAPACITY!F3585,0
+4,E3.1,0,CAPACITY!F3586,0
+4,E3.1,1,CAPACITY!F3587,1
+4,E3.1,0,CAPACITY!F3588,0
+4,E3.1,0,CAPACITY!F3589,0
+4,E3.1,0,CAPACITY!F3590,0
+4,E3.1,0,CAPACITY!F3591,0
+4,E3.1,0,CAPACITY!F3592,0
+4,E3.1,0,CAPACITY!F3593,0
+4,E3.1,0,CAPACITY!F3594,0
+4,E3.1,0,CAPACITY!F3595,0
+4,E3.1,0,CAPACITY!F3596,0
+4,E3.1,0,CAPACITY!F3597,0
+4,E3.1,0,CAPACITY!F3598,0
+4,E3.1,0,CAPACITY!F3599,0
+4,E3.1,0,CAPACITY!F3600,0
+4,E3.1,0,CAPACITY!F3601,0
+4,E3.1,0,CAPACITY!F3602,0
+4,E3.1,0,CAPACITY!F3603,0
+4,E3.1,0,CAPACITY!F3604,0
+4,E3.1,0,CAPACITY!F3605,0
+4,E3.1,0,CAPACITY!F3606,0
+4,E3.1,0,CAPACITY!F3607,0
+4,E3.1,0,CAPACITY!F3608,0
+4,E3.1,0,CAPACITY!F3609,0
+4,E3.1,0,CAPACITY!F3610,0
+4,E3.1,0,CAPACITY!F3611,0
+4,E3.1,0,CAPACITY!F3612,0
+4,E3.1,0,CAPACITY!F3613,0
+4,E3.1,0,CAPACITY!F3614,0
+4,E3.1,0,CAPACITY!F3615,0
+4,E3.1,0,CAPACITY!F3616,0
+4,E3.1,0,CAPACITY!F3617,0
+4,E3.1,0,CAPACITY!F3618,0
+4,E3.1,0,CAPACITY!F3619,0
+4,E3.1,0,CAPACITY!F3620,0
+4,E3.1,0,CAPACITY!F3621,0
+4,E3.1,0,CAPACITY!F3622,0
+4,E3.1,0,CAPACITY!F3623,0
+4,E3.1,0,CAPACITY!F3624,0
+4,E3.1,0,CAPACITY!F3625,0
+4,E3.1,0,CAPACITY!F3626,0
+4,E3.1,0,CAPACITY!F3627,0
+4,E3.1,0,CAPACITY!F3628,0
+4,E3.1,0,CAPACITY!F3629,0
+4,E3.1,0,CAPACITY!F3630,0
+4,E3.1,0,CAPACITY!F3631,0
+4,E3.1,0,CAPACITY!F3632,0
+4,E3.1,1,CAPACITY!F3633,1
+4,E3.1,0,CAPACITY!F3634,0
+4,E3.1,0,CAPACITY!F3635,0
+4,E3.1,0,CAPACITY!F3636,0
+4,E3.1,1,CAPACITY!F3637,1
+4,E3.1,0,CAPACITY!F3638,0
+4,E3.1,1,CAPACITY!F3639,1
+4,E3.1,0,CAPACITY!F3640,0
+4,E3.1,0,CAPACITY!F3641,0
+4,E3.1,0,CAPACITY!F3642,0
+4,E3.1,0,CAPACITY!F3643,0
+4,E3.1,0,CAPACITY!F3644,0
+4,E3.1,0,CAPACITY!F3645,0
+4,E3.1,0,CAPACITY!F3646,0
+4,E3.1,0,CAPACITY!F3647,0
+4,E3.1,1,CAPACITY!F3648,1
+4,E3.1,0,CAPACITY!F3649,0
+4,E3.1,0,CAPACITY!F3650,0
+4,E3.1,0,CAPACITY!F3651,0
+4,E3.1,0,CAPACITY!F3652,0
+4,E3.1,0,CAPACITY!F3653,0
+4,E3.1,0,CAPACITY!F3654,0
+4,E3.1,0,CAPACITY!F3655,0
+4,E3.1,1,CAPACITY!F3656,1
+4,E3.1,0,CAPACITY!F3657,0
+4,E3.1,0,CAPACITY!F3658,0
+4,E3.1,0,CAPACITY!F3659,0
+4,E3.1,0,CAPACITY!F3660,0
+4,E3.1,0,CAPACITY!F3661,0
+4,E3.1,0,CAPACITY!F3662,0
+4,E3.1,0,CAPACITY!F3663,0
+4,E3.1,0,CAPACITY!F3664,0
+4,E3.1,0,CAPACITY!F3665,0
+4,E3.1,0,CAPACITY!F3666,0
+4,E3.1,-1,CAPACITY!F3667,-1
+4,E3.1,0,CAPACITY!F3668,0
+4,E3.1,0,CAPACITY!F3669,0
+4,E3.1,0,CAPACITY!F3670,0
+4,E3.1,1,CAPACITY!F3671,1
+4,E3.1,0,CAPACITY!F3672,0
+4,E3.1,0,CAPACITY!F3673,0
+4,E3.1,0,CAPACITY!F3674,0
+4,E3.1,0,CAPACITY!F3675,0
+4,E3.1,0,CAPACITY!F3676,0
+4,E3.1,0,CAPACITY!F3677,0
+4,E3.1,0,CAPACITY!F3678,0
+4,E3.1,0,CAPACITY!F3679,0
+4,E3.1,0,CAPACITY!F3680,0
+4,E3.1,0,CAPACITY!F3681,0
+4,E3.1,0,CAPACITY!F3682,0
+4,E3.1,0,CAPACITY!F3683,0
+4,E3.1,0,CAPACITY!F3684,0
+4,E3.1,0,CAPACITY!F3685,0
+4,E3.1,0,CAPACITY!F3686,0
+4,E3.1,0,CAPACITY!F3687,0
+4,E3.1,0,CAPACITY!F3688,0
+4,E3.1,0,CAPACITY!F3689,0
+4,E3.1,0,CAPACITY!F3690,0
+4,E3.1,0,CAPACITY!F3691,0
+4,E3.1,0,CAPACITY!F3692,0
+4,E3.1,0,CAPACITY!F3693,0
+4,E3.1,0,CAPACITY!F3694,0
+4,E3.1,0,CAPACITY!F3695,0
+4,E3.1,0,CAPACITY!F3696,0
+4,E3.1,0,CAPACITY!F3697,0
+4,E3.1,0,CAPACITY!F3698,0
+4,E3.1,0,CAPACITY!F3699,0
+4,E3.1,0,CAPACITY!F3700,0
+4,E3.1,0,CAPACITY!F3701,0
+4,E3.1,0,CAPACITY!F3702,0
+4,E3.1,0,CAPACITY!F3703,0
+4,E3.1,0,CAPACITY!F3704,0
+4,E3.1,0,CAPACITY!F3705,0
+4,E3.1,0,CAPACITY!F3706,0
+4,E3.1,1,CAPACITY!F3707,1
+4,E3.1,0,CAPACITY!F3708,0
+4,E3.1,0,CAPACITY!F3709,0
+4,E3.1,0,CAPACITY!F3710,0
+4,E3.1,0,CAPACITY!F3711,0
+4,E3.1,0,CAPACITY!F3712,0
+4,E3.1,0,CAPACITY!F3713,0
+4,E3.1,0,CAPACITY!F3714,0
+4,E3.1,0,CAPACITY!F3715,0
+4,E3.1,0,CAPACITY!F3716,0
+4,E3.1,0,CAPACITY!F3717,0
+4,E3.1,1,CAPACITY!F3718,1
+4,E3.1,1,CAPACITY!F3719,1
+4,E3.1,0,CAPACITY!F3720,0
+4,E3.1,0,CAPACITY!F3721,0
+4,E3.1,0,CAPACITY!F3722,0
+4,E3.1,1,CAPACITY!F3723,1
+4,E3.1,1,CAPACITY!F3724,1
+4,E3.1,0,CAPACITY!F3725,0
+4,E3.1,0,CAPACITY!F3726,0
+4,E3.1,0,CAPACITY!F3727,0
+4,E3.1,0,CAPACITY!F3728,0
+4,E3.1,0,CAPACITY!F3729,0
+4,E3.1,0,CAPACITY!F3730,0
+4,E3.1,0,CAPACITY!F3731,0
+4,E3.1,0,CAPACITY!F3732,0
+4,E3.1,0,CAPACITY!F3733,0
+4,E3.1,0,CAPACITY!F3734,0
+4,E3.1,1,CAPACITY!F3735,1
+4,E3.1,0,CAPACITY!F3736,0
+4,E3.1,0,CAPACITY!F3737,0
+4,E3.1,0,CAPACITY!F3738,0
+4,E3.1,0,CAPACITY!F3739,0
+4,E3.1,0,CAPACITY!F3740,0
+4,E3.1,0,CAPACITY!F3741,0
+4,E3.1,0,CAPACITY!F3742,0
+4,E3.1,0,CAPACITY!F3743,0
+4,E3.1,0,CAPACITY!F3744,0
+4,E3.1,0,CAPACITY!F3745,0
+4,E3.1,0,CAPACITY!F3746,0
+4,E3.1,0,CAPACITY!F3747,0
+4,E3.1,0,CAPACITY!F3748,0
+4,E3.1,0,CAPACITY!F3749,0
+4,E3.1,0,CAPACITY!F3750,0
+4,E3.1,0,CAPACITY!F3751,0
+4,E3.1,0,CAPACITY!F3752,0
+4,E3.1,0,CAPACITY!F3753,0
+4,E3.1,0,CAPACITY!F3754,0
+4,E3.1,0,CAPACITY!F3755,0
+4,E3.1,0,CAPACITY!F3756,0
+4,E3.1,0,CAPACITY!F3757,0
+4,E3.1,0,CAPACITY!F3758,0
+4,E3.1,0,CAPACITY!F3759,0
+4,E3.1,0,CAPACITY!F3760,0
+4,E3.1,0,CAPACITY!F3761,0
+4,E3.1,0,CAPACITY!F3762,0
+4,E3.1,0,CAPACITY!F3763,0
+4,E3.1,0,CAPACITY!F3764,0
+4,E3.1,0,CAPACITY!F3765,0
+4,E3.1,0,CAPACITY!F3766,0
+4,E3.1,0,CAPACITY!F3767,0
+4,E3.1,0,CAPACITY!F3768,0
+4,E3.1,0,CAPACITY!F3769,0
+4,E3.1,0,CAPACITY!F3770,0
+4,E3.1,0,CAPACITY!F3771,0
+4,E3.1,0,CAPACITY!F3772,0
+4,E3.1,0,CAPACITY!F3773,0
+4,E3.1,0,CAPACITY!F3774,0
+4,E3.1,0,CAPACITY!F3775,0
+4,E3.1,0,CAPACITY!F3776,0
+4,E3.1,0,CAPACITY!F3777,0
+4,E3.1,0,CAPACITY!F3778,0
+4,E3.1,0,CAPACITY!F3779,0
+4,E3.1,0,CAPACITY!F3780,0
+4,E3.1,0,CAPACITY!F3781,0
+4,E3.1,0,CAPACITY!F3782,0
+4,E3.1,0,CAPACITY!F3783,0
+4,E3.1,0,CAPACITY!F3784,0
+4,E3.1,0,CAPACITY!F3785,0
+4,E3.1,0,CAPACITY!F3786,0
+4,E3.1,0,CAPACITY!F3787,0
+4,E3.1,0,CAPACITY!F3788,0
+4,E3.1,0,CAPACITY!F3789,0
+4,E3.1,0,CAPACITY!F3790,0
+4,E3.1,0,CAPACITY!F3791,0
+4,E3.1,0,CAPACITY!F3792,0
+4,E3.1,0,CAPACITY!F3793,0
+4,E3.1,0,CAPACITY!F3794,0
+4,E3.1,0,CAPACITY!F3795,0
+4,E3.1,0,CAPACITY!F3796,0
+4,E3.1,0,CAPACITY!F3797,0
+4,E3.1,0,CAPACITY!F3798,0
+4,E3.1,0,CAPACITY!F3799,0
+4,E3.1,0,CAPACITY!F3800,0
+4,E3.1,0,CAPACITY!F3801,0
+4,E3.1,0,CAPACITY!F3802,0
+4,E3.1,0,CAPACITY!F3803,0
+4,E3.1,0,CAPACITY!F3804,0
+4,E3.1,0,CAPACITY!F3805,0
+4,E3.1,0,CAPACITY!F3806,0
+4,E3.1,0,CAPACITY!F3807,0
+4,E3.1,0,CAPACITY!F3808,0
+4,E3.1,0,CAPACITY!F3809,0
+4,E3.1,0,CAPACITY!F3810,0
+4,E3.1,0,CAPACITY!F3811,0
+4,E3.1,0,CAPACITY!F3812,0
+4,E3.1,0,CAPACITY!F3813,0
+4,E3.1,0,CAPACITY!F3814,0
+4,E3.1,0,CAPACITY!F3815,0
+4,E3.1,0,CAPACITY!F3816,0
+4,E3.1,0,CAPACITY!F3817,0
+4,E3.1,0,CAPACITY!F3818,0
+4,E3.1,0,CAPACITY!F3819,0
+4,E3.1,0,CAPACITY!F3820,0
+4,E3.1,0,CAPACITY!F3821,0
+4,E3.1,0,CAPACITY!F3822,0
+4,E3.1,0,CAPACITY!F3823,0
+4,E3.1,0,CAPACITY!F3824,0
+4,E3.1,0,CAPACITY!F3825,0
+4,E3.1,0,CAPACITY!F3826,0
+4,E3.1,0,CAPACITY!F3827,0
+4,E3.1,0,CAPACITY!F3828,0
+4,E3.1,0,CAPACITY!F3829,0
+4,E3.1,0,CAPACITY!F3830,0
+4,E3.1,0,CAPACITY!F3831,0
+4,E3.1,0,CAPACITY!F3832,0
+4,E3.1,0,CAPACITY!F3833,0
+4,E3.1,0,CAPACITY!F3834,0
+4,E3.1,0,CAPACITY!F3835,0
+4,E3.1,0,CAPACITY!F3836,0
+4,E3.1,0,CAPACITY!F3837,0
+4,E3.1,0,CAPACITY!F3838,0
+4,E3.1,0,CAPACITY!F3839,0
+4,E3.1,0,CAPACITY!F3840,0
+4,E3.1,0,CAPACITY!F3841,0
+4,E3.1,0,CAPACITY!F3842,0
+4,E3.1,0,CAPACITY!F3843,0
+4,E3.1,0,CAPACITY!F3844,0
+4,E3.1,0,CAPACITY!F3845,0
+4,E3.1,0,CAPACITY!F3846,0
+4,E3.1,0,CAPACITY!F3847,0
+4,E3.1,0,CAPACITY!F3848,0
+4,E3.1,0,CAPACITY!F3849,0
+4,E3.1,0,CAPACITY!F3850,0
+4,E3.1,0,CAPACITY!F3851,0
+4,E3.1,0,CAPACITY!F3852,0
+4,E3.1,0,CAPACITY!F3853,0
+4,E3.1,0,CAPACITY!F3854,0
+4,E3.1,0,CAPACITY!F3855,0
+4,E3.1,0,CAPACITY!F3856,0
+4,E3.1,0,CAPACITY!F3857,0
+4,E3.1,0,CAPACITY!F3858,0
+4,E3.1,0,CAPACITY!F3859,0
+4,E3.1,0,CAPACITY!F3860,0
+4,E3.1,0,CAPACITY!F3861,0
+4,E3.1,0,CAPACITY!F3862,0
+4,E3.1,0,CAPACITY!F3863,0
+4,E3.1,0,CAPACITY!F3864,0
+4,E3.1,0,CAPACITY!F3865,0
+4,E3.1,0,CAPACITY!F3866,0
+4,E3.1,0,CAPACITY!F3867,0
+4,E3.1,0,CAPACITY!F3868,0
+4,E3.1,0,CAPACITY!F3869,0
+4,E3.1,0,CAPACITY!F3870,0
+4,E3.1,0,CAPACITY!F3871,0
+4,E3.1,0,CAPACITY!F3872,0
+4,E3.1,0,CAPACITY!F3873,0
+4,E3.1,0,CAPACITY!F3874,0
+4,E3.1,0,CAPACITY!F3875,0
+4,E3.1,0,CAPACITY!F3876,0
+4,E3.1,0,CAPACITY!F3877,0
+4,E3.1,0,CAPACITY!F3878,0
+4,E3.1,0,CAPACITY!F3879,0
+4,E3.1,0,CAPACITY!F3880,0
+4,E3.1,0,CAPACITY!F3881,0
+4,E3.1,0,CAPACITY!F3882,0
+4,E3.1,0,CAPACITY!F3883,0
+4,E3.1,0,CAPACITY!F3884,0
+4,E3.1,0,CAPACITY!F3885,0
+4,E3.1,0,CAPACITY!F3886,0
+4,E3.1,0,CAPACITY!F3887,0
+4,E3.1,0,CAPACITY!F3888,0
+4,E3.1,0,CAPACITY!F3889,0
+4,E3.1,0,CAPACITY!F3890,0
+4,E3.1,0,CAPACITY!F3891,0
+4,E3.1,0,CAPACITY!F3892,0
+4,E3.1,0,CAPACITY!F3893,0
+4,E3.1,0,CAPACITY!F3894,0
+4,E3.1,0,CAPACITY!F3895,0
+4,E3.1,0,CAPACITY!F3896,0
+4,E3.1,10,CAPACITY!B3900,10
+4,E3.1,14,CAPACITY!C3900,14
+4,E3.1,0,CAPACITY!D3900,0
+4,E3.1,0,CAPACITY!E3900,0
+4,E3.1,0,CAPACITY!F3900,0
+4,E3.1,0,CAPACITY!G3900,0
+4,E3.1,0,CAPACITY!H3900,0
+4,E3.1,0,CAPACITY!I3900,0
+4,E3.1,0,CAPACITY!J3900,0
+4,E3.1,0,CAPACITY!K3900,0
+4,E3.1,0,CAPACITY!L3900,0
+4,E3.1,0,CAPACITY!M3900,0
+4,E3.1,35,CAPACITY!B3901,35
+4,E3.1,28,CAPACITY!C3901,28
+4,E3.1,33,CAPACITY!D3901,33
+4,E3.1,33,CAPACITY!E3901,33
+4,E3.1,38,CAPACITY!F3901,38
+4,E3.1,40,CAPACITY!G3901,40
+4,E3.1,41,CAPACITY!H3901,41
+4,E3.1,40,CAPACITY!I3901,40
+4,E3.1,20,CAPACITY!J3901,20
+4,E3.1,20,CAPACITY!K3901,20
+4,E3.1,20,CAPACITY!L3901,20
+4,E3.1,20,CAPACITY!M3901,20
+4,E3.1,34,CAPACITY!B3902,34
+4,E3.1,28,CAPACITY!C3902,28
+4,E3.1,32,CAPACITY!D3902,32
+4,E3.1,32,CAPACITY!E3902,32
+4,E3.1,36,CAPACITY!F3902,36
+4,E3.1,38,CAPACITY!G3902,38
+4,E3.1,39,CAPACITY!H3902,39
+4,E3.1,37,CAPACITY!I3902,37
+4,E3.1,18,CAPACITY!J3902,18
+4,E3.1,18,CAPACITY!K3902,18
+4,E3.1,18,CAPACITY!L3902,18
+4,E3.1,18,CAPACITY!M3902,18
+4,E3.1,0,CAPACITY!B3903,0
+4,E3.1,28,CAPACITY!C3903,28
+4,E3.1,27,CAPACITY!D3903,27
+4,E3.1,27,CAPACITY!E3903,27
+4,E3.1,30,CAPACITY!F3903,30
+4,E3.1,32,CAPACITY!G3903,32
+4,E3.1,33,CAPACITY!H3903,33
+4,E3.1,32,CAPACITY!I3903,32
+4,E3.1,16,CAPACITY!J3903,16
+4,E3.1,16,CAPACITY!K3903,16
+4,E3.1,16,CAPACITY!L3903,16
+4,E3.1,16,CAPACITY!M3903,16
+4,E3.1,20,CAPACITY!B3904,20
+4,E3.1,7,CAPACITY!C3904,7
+4,E3.1,7,CAPACITY!D3904,7
+4,E3.1,7,CAPACITY!E3904,7
+4,E3.1,8,CAPACITY!F3904,8
+4,E3.1,8,CAPACITY!G3904,8
+4,E3.1,8,CAPACITY!H3904,8
+4,E3.1,8,CAPACITY!I3904,8
+4,E3.1,4,CAPACITY!J3904,4
+4,E3.1,4,CAPACITY!K3904,4
+4,E3.1,4,CAPACITY!L3904,4
+4,E3.1,4,CAPACITY!M3904,4
+4,E3.1,0,CAPACITY!B3908,0
+4,E3.1,6,CAPACITY!B3909,6
+4,E3.1,0,CAPACITY!B3910,0
+4,E3.1,7,CAPACITY!B3911,7
+4,E3.1,1,CAPACITY!B3912,1
+4,E3.1,5,CAPACITY!B3913,5
+4,E3.1,0,CAPACITY!B3914,0
+4,E3.1,6,CAPACITY!B3915,6
+4,E3.1,0,CAPACITY!B3916,0
+4,E3.1,0,CAPACITY!B3917,0
+4,E3.1,0,CAPACITY!B3918,0
+4,E3.1,0,CAPACITY!B3919,0
+4,E3.1,100%,CAPACITY!B3923,1
+4,E3.1,96%,CAPACITY!B3924,0.964705882352941
+4,E3.1,100%,CAPACITY!B3925,1
+4,E3.1,96%,CAPACITY!B3926,0.957317073170732
+4,E3.1,99%,CAPACITY!B3927,0.994350282485876
+4,E3.1,97%,CAPACITY!B3928,0.972677595628415
+4,E3.1,100%,CAPACITY!B3929,1
+4,E3.1,97%,CAPACITY!B3930,0.967032967032967
+4,E3.1,100%,CAPACITY!B3931,1
+4,E3.1,100%,CAPACITY!B3932,1
+4,E3.1,100%,CAPACITY!B3933,1
+4,E3.1,100%,CAPACITY!B3934,1
+4,E3.1,186,CAPACITY!C11,186
+4,E3.1,2027,CAPACITY!A11,Q3 2027
+4,E3.1,14,CAPACITY!D21,-14
+4,E3.1,9,CAPACITY!D23,9
+4,E3.2,10,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,2026,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,22,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,2026,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,26,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,2026,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,10,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,2026,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,1,VENDORS!H50,From 1 Apr 2026 a second vendor D engineer keeps the pipeline with weekly handover notes; absence beyond 5 working days escalates to the data workstream lead within 1 working day. Fallback: named replacement.
+4,E3.2,2026,VENDORS!H50,From 1 Apr 2026 a second vendor D engineer keeps the pipeline with weekly handover notes; absence beyond 5 working days escalates to the data workstream lead within 1 working day. Fallback: named replacement.
+4,E3.2,5,VENDORS!H50,From 1 Apr 2026 a second vendor D engineer keeps the pipeline with weekly handover notes; absence beyond 5 working days escalates to the data workstream lead within 1 working day. Fallback: named replacement.
+4,E3.2,1,VENDORS!H50,From 1 Apr 2026 a second vendor D engineer keeps the pipeline with weekly handover notes; absence beyond 5 working days escalates to the data workstream lead within 1 working day. Fallback: named replacement.
+4,E3.2,1,VENDORS!H51,"Two vendor B analysts are trained on the schema before build starts 1 Jul 2026, with a signed schema pack; if one leaves, the other covers and R2 applies to any float loss."
+4,E3.2,2026,VENDORS!H51,"Two vendor B analysts are trained on the schema before build starts 1 Jul 2026, with a signed schema pack; if one leaves, the other covers and R2 applies to any float loss."
+4,E3.2,10,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,2026,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,22,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,2026,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,26,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,2026,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,10,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,2026,VENDORS!H49,"Vendor D shadowed and then reverse-shadowed the test lead; assets handed over 10 Apr 2026, runbooks signed off 22 May 2026, sole delivery 26 May 2026. Buffer: vendor A paid to 10 Jun 2026."
+4,E3.2,1,VENDORS!H50,From 1 Apr 2026 a second vendor D engineer keeps the pipeline with weekly handover notes; absence beyond 5 working days escalates to the data workstream lead within 1 working day. Fallback: named replacement.
+4,E3.2,2026,VENDORS!H50,From 1 Apr 2026 a second vendor D engineer keeps the pipeline with weekly handover notes; absence beyond 5 working days escalates to the data workstream lead within 1 working day. Fallback: named replacement.
+4,E3.2,5,VENDORS!H50,From 1 Apr 2026 a second vendor D engineer keeps the pipeline with weekly handover notes; absence beyond 5 working days escalates to the data workstream lead within 1 working day. Fallback: named replacement.
+4,E3.2,1,VENDORS!H50,From 1 Apr 2026 a second vendor D engineer keeps the pipeline with weekly handover notes; absence beyond 5 working days escalates to the data workstream lead within 1 working day. Fallback: named replacement.
+4,E3.2,1,VENDORS!H51,"Two vendor B analysts are trained on the schema before build starts 1 Jul 2026, with a signed schema pack; if one leaves, the other covers and R2 applies to any float loss."
+4,E3.2,2026,VENDORS!H51,"Two vendor B analysts are trained on the schema before build starts 1 Jul 2026, with a signed schema pack; if one leaves, the other covers and R2 applies to any float loss."
+4,E3.2,1,VENDORS!A41,KT1
+4,E3.2,6,VENDORS!A46,KT6
+4,E3.2,01,ASSUMPTIONS!C46,2026-04-01
+4,E3.2,2026,ASSUMPTIONS!C46,2026-04-01
+4,E3.2,26,ASSUMPTIONS!C47,2026-05-26
+4,E3.2,2026,ASSUMPTIONS!C47,2026-05-26
+4,E3.2,11,ASSUMPTIONS!C48,2026-05-11
+4,E3.2,2026,ASSUMPTIONS!C48,2026-05-11
+4,E3.2,10,ASSUMPTIONS!C49,2026-06-10
+4,E3.2,2026,ASSUMPTIONS!C49,2026-06-10
+4,E3.2,40,VENDORS!J29,40
+4,E3.2,11,VENDORS!J30,11
+4,E3.2,51,VENDORS!J33,51
+4,E3.2,"183,600",ASSUMPTIONS!C55,183600
+4,E3.2,0,VENDORS!J22,0
+4,E3.2,1,VENDORS!A49,KP1
+4,E3.2,2,VENDORS!A50,KP2
+4,E3.2,1,VENDORS!A51,SS1
+4,E3.2,3,DECISIONS!A7,D3
+4,E3.3,97%,VENDORS!C5,97
+4,E3.3,1.4%,VENDORS!E5,1.4
+4,E3.3,93%,VENDORS!G5,93
+4,E3.3,3%,VENDORS!I5,3
+4,E3.3,96%,VENDORS!C6,96
+4,E3.3,1.6%,VENDORS!E6,1.6
+4,E3.3,91%,VENDORS!G6,91
+4,E3.3,4%,VENDORS!I6,4
+4,E3.3,98%,VENDORS!C7,98
+4,E3.3,1.2%,VENDORS!E7,1.2
+4,E3.3,95%,VENDORS!G7,95
+4,E3.3,2%,VENDORS!I7,2
+4,E3.3,97%,VENDORS!C8,97
+4,E3.3,1.3%,VENDORS!E8,1.3
+4,E3.3,94%,VENDORS!G8,94
+4,E3.3,3.5%,VENDORS!I8,3.5
+4,E3.3,96%,VENDORS!C9,96
+4,E3.3,1.4%,VENDORS!E9,1.4
+4,E3.3,92%,VENDORS!G9,92
+4,E3.3,4.5%,VENDORS!I9,4.5
+4,E3.3,31,VENDORS!B34,2026-05-31
+4,E3.3,2026,VENDORS!B34,2026-05-31
+4,E3.3,24,VENDORS!B35,2026-06-24
+4,E3.3,2026,VENDORS!B35,2026-06-24
+4,E3.3,30,VENDORS!B36,2026-06-30
+4,E3.3,2026,VENDORS!B36,2026-06-30
+4,E3.3,30,VENDORS!B37,2026-07-30
+4,E3.3,2026,VENDORS!B37,2026-07-30
+4,E3.3,30,VENDORS!A34,Day 30
+4,E3.3,31,VENDORS!B34,2026-05-31
+4,E3.3,2026,VENDORS!B34,2026-05-31
+4,E3.3,3.0%,VENDORS!C34,3
+4,E3.3,2.6%,VENDORS!D34,2.6
+4,E3.3,30,VENDORS!E34,30
+4,E3.3,24,VENDORS!B35,2026-06-24
+4,E3.3,2026,VENDORS!B35,2026-06-24
+4,E3.3,2.0%,VENDORS!C35,2
+4,E3.3,1.6%,VENDORS!D35,1.6
+4,E3.3,54,VENDORS!E35,54
+4,E3.3,60,VENDORS!A36,Day 60
+4,E3.3,30,VENDORS!B36,2026-06-30
+4,E3.3,2026,VENDORS!B36,2026-06-30
+4,E3.3,2.0%,VENDORS!C36,2
+4,E3.3,1.6%,VENDORS!D36,1.6
+4,E3.3,60,VENDORS!E36,60
+4,E3.3,90,VENDORS!A37,Day 90
+4,E3.3,30,VENDORS!B37,2026-07-30
+4,E3.3,2026,VENDORS!B37,2026-07-30
+4,E3.3,1.5%,VENDORS!C37,1.5
+4,E3.3,1.4%,VENDORS!D37,1.4
+4,E3.3,90,VENDORS!E37,90
+4,E3.3,1.5%,VENDORS!J23,≤1.5% for two consecutive months (assumption)
+4,E3.4,2026,COMMERCIAL!B65,2026 spend $m
+4,E3.4,2027,COMMERCIAL!C65,2027 spend $m
+4,E3.4,2028,COMMERCIAL!D65,2028 spend $m
+4,E3.4,0.5,COMMERCIAL!B66,0.507028051665389
+4,E3.4,0.0,COMMERCIAL!C66,0
+4,E3.4,0.0,COMMERCIAL!D66,0
+4,E3.4,1.7%,COMMERCIAL!F66,0.0174068954842552
+4,E3.4,3.4,COMMERCIAL!B67,3.44535813436552
+4,E3.4,4.2,COMMERCIAL!C67,4.2029340739455
+4,E3.4,2.1,COMMERCIAL!D67,2.0633561028029
+4,E3.4,33.3%,COMMERCIAL!F67,0.333412809362603
+4,E3.4,3.3,COMMERCIAL!B68,3.31051636829534
+4,E3.4,3.9,COMMERCIAL!C68,3.9187709078285
+4,E3.4,1.8,COMMERCIAL!D68,1.81270385958628
+4,E3.4,31.0%,COMMERCIAL!F68,0.310422656403121
+4,E3.4,2.3,COMMERCIAL!B69,2.27042879801181
+4,E3.4,3.4,COMMERCIAL!C69,3.38690324596424
+4,E3.4,1.9,COMMERCIAL!D69,1.85383934807916
+4,E3.4,25.8%,COMMERCIAL!F69,0.257867735239467
+4,E3.4,1.1,COMMERCIAL!B70,1.11466864766198
+4,E3.4,0.8,COMMERCIAL!C70,0.84659177226176
+4,E3.4,0.4,COMMERCIAL!D70,0.394900689531656
+4,E3.4,8.1%,COMMERCIAL!F70,0.0808899035105531
+4,E3.4,10.6,COMMERCIAL!B71,10.648
+4,E3.4,12.4,COMMERCIAL!C71,12.3552
+4,E3.4,6.1,COMMERCIAL!D71,6.1248
+4,E3.4,100.0%,COMMERCIAL!F71,1
+4,E3.4,2026,COMMERCIAL!B57,2026
+4,E3.4,1.0086,COMMERCIAL!B60,1.00860961142906
+4,E3.4,2027,COMMERCIAL!C57,2027
+4,E3.4,0.9748,COMMERCIAL!C60,0.974830758548863
+4,E3.4,2028,COMMERCIAL!D57,2028
+4,E3.4,0.9972,COMMERCIAL!D60,0.997223963463777
+4,E3.4,2026,COMMERCIAL!B57,2026
+4,E3.4,8.7,COMMERCIAL!B73,8.712
+4,E3.4,1.9,COMMERCIAL!C73,1.936
+4,E3.4,14.2,ASSUMPTIONS!C12,14.2
+4,E3.4,17.6,ASSUMPTIONS!C13,17.6
+4,E3.4,9.0,ASSUMPTIONS!C14,9
+4,Decision forced,2026,DECISIONS!B7,May 2026
+4,Decision forced,2.0%,DECISIONS!C7,"Re-competed vendor B, with a remediation parallel run at its cost and two milestone payments held until a 2.0% exit gate was met."
+4,Footer,31 Oct 2026,ASSUMPTIONS!C6,2026-10-31
+4,Footer,14 Nov 2026,ASSUMPTIONS!B123,2026-11-14
+4,Footer,4,ASSUMPTIONS!B128,4
+4,Footer,7,ASSUMPTIONS!B124,7
+5,Page title,5,ASSUMPTIONS!B129,5
+5,E4.1,42.84,ASSUMPTIONS!C10,42.84
+5,E4.1,8,BENEFITS!C5,8 Vendor rationalisation
+5,E4.1,10,BENEFITS!N5,VENDORS (Vendor A exited 10 Jun 2026)
+5,E4.1,2026,BENEFITS!N5,VENDORS (Vendor A exited 10 Jun 2026)
+5,E4.1,1,BENEFITS!C6,1 Platform consolidation
+5,E4.1,2,BENEFITS!C7,2 Investor reporting uplift
+5,E4.1,2,BENEFITS!N7,PORTFOLIO line 2 gate; E4.2 shows 31 Oct 2026 position
+5,E4.1,2,BENEFITS!N7,PORTFOLIO line 2 gate; E4.2 shows 31 Oct 2026 position
+5,E4.1,31,BENEFITS!N7,PORTFOLIO line 2 gate; E4.2 shows 31 Oct 2026 position
+5,E4.1,2026,BENEFITS!N7,PORTFOLIO line 2 gate; E4.2 shows 31 Oct 2026 position
+5,E4.1,5,BENEFITS!C8,5a CRM configuration
+5,E4.1,0,BENEFITS!N8,PORTFOLIO R10 measure; assumption
+5,E4.1,6,BENEFITS!C10,6 Regulatory reporting change
+5,E4.1,1,BENEFITS!E10,Phase 1 returns filed by the deadline
+5,E4.1,1,BENEFITS!N10,PORTFOLIO R11; §8 D4
+5,E4.1,8,BENEFITS!N10,PORTFOLIO R11; §8 D4
+5,E4.1,5,BENEFITS!F5,5
+5,E4.1,3,BENEFITS!H5,3
+5,E4.1,4,BENEFITS!J5,4
+5,E4.1,01,BENEFITS!G5,2026-01-01
+5,E4.1,2026,BENEFITS!G5,2026-01-01
+5,E4.1,31,BENEFITS!I5,2027-12-31
+5,E4.1,2027,BENEFITS!I5,2027-12-31
+5,E4.1,31,BENEFITS!K5,2026-10-31
+5,E4.1,2026,BENEFITS!K5,2026-10-31
+5,E4.1,0,BENEFITS!F6,0
+5,E4.1,1.2,BENEFITS!H6,1.2
+5,E4.1,1.2,BENEFITS!J6,1.2
+5,E4.1,01,BENEFITS!G6,2026-01-01
+5,E4.1,2026,BENEFITS!G6,2026-01-01
+5,E4.1,01,BENEFITS!I6,2028-01-01
+5,E4.1,2028,BENEFITS!I6,2028-01-01
+5,E4.1,01,BENEFITS!K6,2028-01-01
+5,E4.1,2028,BENEFITS!K6,2028-01-01
+5,E4.1,0%,BENEFITS!F7,0
+5,E4.1,40%,BENEFITS!H7,0.4
+5,E4.1,40%,BENEFITS!J7,0.4
+5,E4.1,01,BENEFITS!G7,2026-01-01
+5,E4.1,2026,BENEFITS!G7,2026-01-01
+5,E4.1,31,BENEFITS!I7,2026-12-31
+5,E4.1,2026,BENEFITS!I7,2026-12-31
+5,E4.1,31,BENEFITS!K7,2026-12-31
+5,E4.1,2026,BENEFITS!K7,2026-12-31
+5,E4.1,12,BENEFITS!F8,12
+5,E4.1,6,BENEFITS!H8,6
+5,E4.1,6,BENEFITS!J8,6
+5,E4.1,01,BENEFITS!G8,2026-06-01
+5,E4.1,2026,BENEFITS!G8,2026-06-01
+5,E4.1,31,BENEFITS!I8,2027-03-31
+5,E4.1,2027,BENEFITS!I8,2027-03-31
+5,E4.1,31,BENEFITS!K8,2027-03-31
+5,E4.1,2027,BENEFITS!K8,2027-03-31
+5,E4.1,4.1%,BENEFITS!F9,4.1
+5,E4.1,1.5%,BENEFITS!H9,1.5
+5,E4.1,1.6%,BENEFITS!J9,1.6
+5,E4.1,31,BENEFITS!G9,2026-03-31
+5,E4.1,2026,BENEFITS!G9,2026-03-31
+5,E4.1,31,BENEFITS!I9,2026-10-31
+5,E4.1,2026,BENEFITS!I9,2026-10-31
+5,E4.1,31,BENEFITS!K9,2026-10-31
+5,E4.1,2026,BENEFITS!K9,2026-10-31
+5,E4.1,100%,BENEFITS!H10,1
+5,E4.1,100%,BENEFITS!J10,1
+5,E4.1,29,BENEFITS!I10,2027-01-29
+5,E4.1,2027,BENEFITS!I10,2027-01-29
+5,E4.1,29,BENEFITS!K10,2027-01-29
+5,E4.1,2027,BENEFITS!K10,2027-01-29
+5,E4.2,31,ASSUMPTIONS!C6,2026-10-31
+5,E4.2,2026,ASSUMPTIONS!C6,2026-10-31
+5,E4.2,120,BENEFITS!B15,120
+5,E4.2,104,BENEFITS!C15,104
+5,E4.2,70,BENEFITS!D15,70
+5,E4.2,44,BENEFITS!E15,44
+5,E4.2,86.7%,BENEFITS!F15,0.866666666666667
+5,E4.2,67.3%,BENEFITS!G15,0.673076923076923
+5,E4.2,62.9%,BENEFITS!I15,0.628571428571429
+5,E4.2,36.7%,BENEFITS!H15,0.366666666666667
+5,E4.2,150,BENEFITS!B16,150
+5,E4.2,138,BENEFITS!C16,138
+5,E4.2,96,BENEFITS!D16,96
+5,E4.2,54,BENEFITS!E16,54
+5,E4.2,92.0%,BENEFITS!F16,0.92
+5,E4.2,69.6%,BENEFITS!G16,0.695652173913044
+5,E4.2,56.2%,BENEFITS!I16,0.5625
+5,E4.2,36.0%,BENEFITS!H16,0.36
+5,E4.2,60,BENEFITS!B17,60
+5,E4.2,52,BENEFITS!C17,52
+5,E4.2,18,BENEFITS!D17,18
+5,E4.2,9,BENEFITS!E17,9
+5,E4.2,86.7%,BENEFITS!F17,0.866666666666667
+5,E4.2,34.6%,BENEFITS!G17,0.346153846153846
+5,E4.2,50.0%,BENEFITS!I17,0.5
+5,E4.2,15.0%,BENEFITS!H17,0.15
+5,E4.2,330,BENEFITS!B18,330
+5,E4.2,294,BENEFITS!C18,294
+5,E4.2,184,BENEFITS!D18,184
+5,E4.2,107,BENEFITS!E18,107
+5,E4.2,89.1%,BENEFITS!F18,0.890909090909091
+5,E4.2,62.6%,BENEFITS!G18,0.625850340136055
+5,E4.2,58.2%,BENEFITS!I18,0.581521739130435
+5,E4.2,32.4%,BENEFITS!H18,0.324242424242424
+5,E4.2,31 Oct 2026,ASSUMPTIONS!C6,2026-10-31
+5,E4.2,34.6%,BENEFITS!G17,0.346153846153846
+5,E4.2,67.3%,BENEFITS!G15,0.673076923076923
+5,E4.2,69.6%,BENEFITS!G16,0.695652173913044
+5,E4.2,34,ASSUMPTIONS!B136,"Recommend the Head of Client Reporting, with Corporate Services, re-engages its 34 trained but inactive users by 31 Dec 2026: 35% trained-to-active against 67-70% elsewhere; 32.4% overall is below the 40% gate."
+5,E4.2,31,ASSUMPTIONS!B136,"Recommend the Head of Client Reporting, with Corporate Services, re-engages its 34 trained but inactive users by 31 Dec 2026: 35% trained-to-active against 67-70% elsewhere; 32.4% overall is below the 40% gate."
+5,E4.2,2026,ASSUMPTIONS!B136,"Recommend the Head of Client Reporting, with Corporate Services, re-engages its 34 trained but inactive users by 31 Dec 2026: 35% trained-to-active against 67-70% elsewhere; 32.4% overall is below the 40% gate."
+5,E4.2,35%,ASSUMPTIONS!B136,"Recommend the Head of Client Reporting, with Corporate Services, re-engages its 34 trained but inactive users by 31 Dec 2026: 35% trained-to-active against 67-70% elsewhere; 32.4% overall is below the 40% gate."
+5,E4.2,67,ASSUMPTIONS!B136,"Recommend the Head of Client Reporting, with Corporate Services, re-engages its 34 trained but inactive users by 31 Dec 2026: 35% trained-to-active against 67-70% elsewhere; 32.4% overall is below the 40% gate."
+5,E4.2,70%,ASSUMPTIONS!B136,"Recommend the Head of Client Reporting, with Corporate Services, re-engages its 34 trained but inactive users by 31 Dec 2026: 35% trained-to-active against 67-70% elsewhere; 32.4% overall is below the 40% gate."
+5,E4.2,32.4%,ASSUMPTIONS!B136,"Recommend the Head of Client Reporting, with Corporate Services, re-engages its 34 trained but inactive users by 31 Dec 2026: 35% trained-to-active against 67-70% elsewhere; 32.4% overall is below the 40% gate."
+5,E4.2,40%,ASSUMPTIONS!B136,"Recommend the Head of Client Reporting, with Corporate Services, re-engages its 34 trained but inactive users by 31 Dec 2026: 35% trained-to-active against 67-70% elsewhere; 32.4% overall is below the 40% gate."
+5,E4.3,11,BENEFITS!C26,11
+5,E4.3,11,BENEFITS!D26,11
+5,E4.3,6,BENEFITS!E26,6
+5,E4.3,5,BENEFITS!F26,5
+5,E4.3,100.0%,BENEFITS!C27,1
+5,E4.3,90%,BENEFITS!D27,0.9
+5,E4.3,80%,BENEFITS!E27,0.8
+5,E4.3,80%,BENEFITS!F27,0.8
+5,E4.3,1.6%,BENEFITS!C28,1.6
+5,E4.3,1.5%,BENEFITS!D28,1.5
+5,E4.3,2.0%,BENEFITS!E28,2
+5,E4.3,2.0%,BENEFITS!F28,2
+5,E4.3,8.8%,BENEFITS!C29,0.088235294117647
+5,E4.3,25%,BENEFITS!D29,0.25
+5,E4.3,50%,BENEFITS!E29,0.5
+5,E4.3,50%,BENEFITS!F29,0.5
+5,E4.3,0,BENEFITS!C30,0
+5,E4.3,0,BENEFITS!D30,0
+5,E4.3,0,BENEFITS!E30,2
+5,E4.3,2,BENEFITS!F30,2
+5,E4.3,32.4%,BENEFITS!C31,0.324242424242424
+5,E4.3,40%,BENEFITS!D31,0.4
+5,E4.3,30%,BENEFITS!E31,0.3
+5,E4.3,30%,BENEFITS!F31,0.3
+5,E4.3,11,BENEFITS!C26,11
+5,E4.3,11,BENEFITS!D26,11
+5,E4.3,6,BENEFITS!E26,6
+5,E4.3,5,BENEFITS!F26,5
+5,E4.3,6,BENEFITS!I26,Exec sponsor with Compliance (line 6 stop condition)
+5,E4.3,31,BENEFITS!B27,"Milestones due by 31 Oct 2026 met on time, %"
+5,E4.3,2026,BENEFITS!B27,"Milestones due by 31 Oct 2026 met on time, %"
+5,E4.3,100.0%,BENEFITS!C27,1
+5,E4.3,90%,BENEFITS!D27,0.9
+5,E4.3,80%,BENEFITS!E27,0.8
+5,E4.3,80%,BENEFITS!F27,0.8
+5,E4.3,1.6%,BENEFITS!C28,1.6
+5,E4.3,1.5%,BENEFITS!D28,1.5
+5,E4.3,2.0%,BENEFITS!E28,2
+5,E4.3,2.0%,BENEFITS!F28,2
+5,E4.3,8.8%,BENEFITS!C29,0.088235294117647
+5,E4.3,25%,BENEFITS!D29,0.25
+5,E4.3,50%,BENEFITS!E29,0.5
+5,E4.3,50%,BENEFITS!F29,0.5
+5,E4.3,0,BENEFITS!C30,0
+5,E4.3,0,BENEFITS!D30,0
+5,E4.3,0,BENEFITS!E30,2
+5,E4.3,2,BENEFITS!F30,2
+5,E4.3,40%,BENEFITS!B31,Self-service share vs 40% gate
+5,E4.3,32.4%,BENEFITS!C31,0.324242424242424
+5,E4.3,40%,BENEFITS!D31,0.4
+5,E4.3,30%,BENEFITS!E31,0.3
+5,E4.3,30%,BENEFITS!F31,0.3
+5,E4.3,31,BENEFITS!I31,Programme director; exec sponsor at the 31 Dec 2026 gate
+5,E4.3,2026,BENEFITS!I31,Programme director; exec sponsor at the 31 Dec 2026 gate
+5,E4.4,7,ASSUMPTIONS!B131,7
+5,Decision forced,2026,DECISIONS!B9,Jul 2026
+5,Footer,31 Oct 2026,ASSUMPTIONS!C6,2026-10-31
+5,Footer,14 Nov 2026,ASSUMPTIONS!B123,2026-11-14
+5,Footer,5,ASSUMPTIONS!B129,5
+5,Footer,7,ASSUMPTIONS!B124,7
+6,Cadence,10%,PLAN!E58,"Milestone status, RAID updates, re-sequencing inside a workstream below the 10% scope threshold"
+6,Cadence,2,PLAN!E60,"Exec sponsor approvals in the DACI (funding release tranche 2, vendor award or re-compete, regulatory commitment date); decisions get a D-number in the log"
+6,Cadence,1,PLAN!F60,Pages 1–4
+6,Cadence,4,PLAN!F60,Pages 1–4
+6,Cadence,29,BENEFITS!I10,2027-01-29
+6,Cadence,2027,BENEFITS!I10,2027-01-29
+6,Cadence,40%,BENEFITS!H7,0.4
+6,Cadence,2.04,PLAN!C66,2.04
+6,Cadence,11,PLAN!B64,11
+6,Cadence,32.4%,PLAN!B65,0.324242424242424
+6,Cadence,40%,PLAN!C65,0.4
+6,Cadence,$1.86,PLAN!B66,1.8564
+6,Cadence,$2.04,PLAN!C66,2.04
+6,Cadence,29 Jan 2027,BENEFITS!I10,2027-01-29
+6,Cadence,11,ASSUMPTIONS!B137,"These three answer what a managing director asks monthly: is the regulatory date safe (11 working days of float), is adoption moving (32.4% against 40%), and how much reserve is left ($1.86m)."
+6,Cadence,32.4%,ASSUMPTIONS!B137,"These three answer what a managing director asks monthly: is the regulatory date safe (11 working days of float), is adoption moving (32.4% against 40%), and how much reserve is left ($1.86m)."
+6,Cadence,40%,ASSUMPTIONS!B137,"These three answer what a managing director asks monthly: is the regulatory date safe (11 working days of float), is adoption moving (32.4% against 40%), and how much reserve is left ($1.86m)."
+6,Cadence,1.86,ASSUMPTIONS!B137,"These three answer what a managing director asks monthly: is the regulatory date safe (11 working days of float), is adoption moving (32.4% against 40%), and how much reserve is left ($1.86m)."
+6,Footer,31 Oct 2026,ASSUMPTIONS!C6,2026-10-31
+6,Footer,14 Nov 2026,ASSUMPTIONS!B123,2026-11-14
+6,Footer,6,ASSUMPTIONS!B130,6
+6,Footer,7,ASSUMPTIONS!B124,7
+7,E4.4,2026,DECISIONS!B5,Mar 2026
+7,E4.4,2026,DECISIONS!B6,Apr 2026
+7,E4.4,2026,DECISIONS!B7,May 2026
+7,E4.4,2026,DECISIONS!B8,Jun 2026
+7,E4.4,2026,DECISIONS!B9,Jul 2026
+7,E4.4,2026,DECISIONS!B5,Mar 2026
+7,E4.4,62%,DECISIONS!C5,"Stopped the CRM replacement and re-scoped to configuration, because 62% of the required capability already sat in the incumbent platform."
+7,E4.4,14,DECISIONS!E5,14 user interviews; 62% of the required capability already existed in the incumbent platform.
+7,E4.4,62%,DECISIONS!E5,14 user interviews; 62% of the required capability already existed in the incumbent platform.
+7,E4.4,11,DECISIONS!G5,"Configured build live in 11 weeks, around June 2026; $4.8m of replacement scope withdrawn and $0.9m moved from line 1 to fund it."
+7,E4.4,2026,DECISIONS!G5,"Configured build live in 11 weeks, around June 2026; $4.8m of replacement scope withdrawn and $0.9m moved from line 1 to fund it."
+7,E4.4,4.8,DECISIONS!G5,"Configured build live in 11 weeks, around June 2026; $4.8m of replacement scope withdrawn and $0.9m moved from line 1 to fund it."
+7,E4.4,0.9,DECISIONS!G5,"Configured build live in 11 weeks, around June 2026; $4.8m of replacement scope withdrawn and $0.9m moved from line 1 to fund it."
+7,E4.4,1,DECISIONS!G5,"Configured build live in 11 weeks, around June 2026; $4.8m of replacement scope withdrawn and $0.9m moved from line 1 to fund it."
+7,E4.4,1,DECISIONS!I5,Page 1
+7,E4.4,2026,DECISIONS!B6,Apr 2026
+7,E4.4,2,DECISIONS!C6,"Re-baselined the portfolio to fit capacity: deferred client portal, cloud wave 2 and finance close, and stopped ESG data."
+7,E4.4,205,DECISIONS!E6,Peak demand 205 against supply of 186.
+7,E4.4,186,DECISIONS!E6,Peak demand 205 against supply of 186.
+7,E4.4,42.84,DECISIONS!G6,"Envelope held at $42.84m; eight funded, three deferred, two stopped; 19 unfilled requisitions cancelled, so peak demand matches supply at 186."
+7,E4.4,19,DECISIONS!G6,"Envelope held at $42.84m; eight funded, three deferred, two stopped; 19 unfilled requisitions cancelled, so peak demand matches supply at 186."
+7,E4.4,186,DECISIONS!G6,"Envelope held at $42.84m; eight funded, three deferred, two stopped; 19 unfilled requisitions cancelled, so peak demand matches supply at 186."
+7,E4.4,1,DECISIONS!I6,Page 1
+7,E4.4,2026,DECISIONS!B7,May 2026
+7,E4.4,2.0%,DECISIONS!C7,"Re-competed vendor B, with a remediation parallel run at its cost and two milestone payments held until a 2.0% exit gate was met."
+7,E4.4,4.1%,DECISIONS!E7,"Defect escape 4.1% against a 1.5% threshold, with two SLA breaches in a quarter."
+7,E4.4,1.5%,DECISIONS!E7,"Defect escape 4.1% against a 1.5% threshold, with two SLA breaches in a quarter."
+7,E4.4,1.6%,DECISIONS!G7,"Exit gate met at 1.6% in 54 days; the two held payments released, no added spend. Vendor B stays amber until 1.5% holds two consecutive months, not reached at the cut-off."
+7,E4.4,54,DECISIONS!G7,"Exit gate met at 1.6% in 54 days; the two held payments released, no added spend. Vendor B stays amber until 1.5% holds two consecutive months, not reached at the cut-off."
+7,E4.4,1.5%,DECISIONS!G7,"Exit gate met at 1.6% in 54 days; the two held payments released, no added spend. Vendor B stays amber until 1.5% holds two consecutive months, not reached at the cut-off."
+7,E4.4,3,DECISIONS!I7,Page 3
+7,E4.4,2026,DECISIONS!B8,Jun 2026
+7,E4.4,2,DECISIONS!C8,"Phased two regulatory reports into phase 2 to protect the 29 Jan 2027 regulatory date, forecast, rather than moving the date or crashing the plan."
+7,E4.4,29,DECISIONS!C8,"Phased two regulatory reports into phase 2 to protect the 29 Jan 2027 regulatory date, forecast, rather than moving the date or crashing the plan."
+7,E4.4,2027,DECISIONS!C8,"Phased two regulatory reports into phase 2 to protect the 29 Jan 2027 regulatory date, forecast, rather than moving the date or crashing the plan."
+7,E4.4,11,DECISIONS!G8,"Two reports phased; float rebuilt to 11 days; data-engineering need down from six to four. The 29 Jan 2027 date is protected, forecast."
+7,E4.4,29,DECISIONS!G8,"Two reports phased; float rebuilt to 11 days; data-engineering need down from six to four. The 29 Jan 2027 date is protected, forecast."
+7,E4.4,2027,DECISIONS!G8,"Two reports phased; float rebuilt to 11 days; data-engineering need down from six to four. The 29 Jan 2027 date is protected, forecast."
+7,E4.4,31,DECISIONS!H8,mixed: in-scenario actual (simulated) to 31 Oct 2026; forecast (simulated) after
+7,E4.4,2026,DECISIONS!H8,mixed: in-scenario actual (simulated) to 31 Oct 2026; forecast (simulated) after
+7,E4.4,2,DECISIONS!I8,Page 2
+7,E4.4,2026,DECISIONS!B9,Jul 2026
+7,E4.4,2,DECISIONS!E9,Evaluation gate: 2 of 9 AI use cases passed held-out testing.
+7,E4.4,9,DECISIONS!E9,Evaluation gate: 2 of 9 AI use cases passed held-out testing.
+7,E4.4,31,DECISIONS!G9,"Two stay live in current scope; of the seven that failed, five re-scoped and two retired. Re-entry gate 31 Dec 2026, forecast."
+7,E4.4,2026,DECISIONS!G9,"Two stay live in current scope; of the seven that failed, five re-scoped and two retired. Re-entry gate 31 Dec 2026, forecast."
+7,E4.4,31,DECISIONS!H9,mixed: in-scenario actual (simulated) to 31 Oct 2026; forecast (simulated) after
+7,E4.4,2026,DECISIONS!H9,mixed: in-scenario actual (simulated) to 31 Oct 2026; forecast (simulated) after
+7,E4.4,4,DECISIONS!I9,Page 4
+7,Footer,31 Oct 2026,ASSUMPTIONS!C6,2026-10-31
+7,Footer,14 Nov 2026,ASSUMPTIONS!B123,2026-11-14
+7,Footer,7,ASSUMPTIONS!B131,7
+7,Footer,7,ASSUMPTIONS!B124,7

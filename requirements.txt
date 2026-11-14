@@ -1,0 +1,6 @@
+openpyxl==3.1.5
+pytest>=8.4,<9
+PyYAML>=6.0,<7
+matplotlib==3.10.8
+reportlab==4.4.9
+pypdf==6.21.4

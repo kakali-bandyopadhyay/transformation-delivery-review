@@ -1,0 +1,1515 @@
+{
+  "seed": 20261031,
+  "as_at": "2026-10-31",
+  "years": [
+    2026,
+    2027,
+    2028
+  ],
+  "envelope_label": "scenario envelope, assumed approved",
+  "funding_by_year_m": [
+    14.2,
+    17.6,
+    9.0
+  ],
+  "other_costs_by_year_m": [
+    3.6,
+    5.2,
+    2.9
+  ],
+  "vendor": {
+    "ftemonth_usd": 8800,
+    "working_days_per_year": 220,
+    "blended_day_rate_usd": 480,
+    "specialist_day_rate_usd": 600,
+    "year1_jan_oct_average_fte": 99,
+    "year1_jan_oct_months": 10,
+    "year1_nov_dec_average_fte": 110,
+    "year1_nov_dec_months": 2,
+    "year2_quarter_average_fte": [
+      112,
+      118,
+      121,
+      117
+    ],
+    "year3_quarter_average_fte": [
+      58,
+      58,
+      58,
+      58
+    ],
+    "grid_fte_by_quarter": [
+      99,
+      99,
+      99,
+      99,
+      112,
+      118,
+      121,
+      117,
+      58,
+      58,
+      58,
+      58
+    ],
+    "share_profiles": {
+      "Q1 2026": {
+        "Vendor A": 0.1,
+        "Vendor B": 0.35,
+        "Vendor C": 0.35,
+        "Vendor D": 0.0,
+        "Vendor E": 0.2
+      },
+      "Q2 2026": {
+        "Vendor A": 0.08,
+        "Vendor B": 0.29,
+        "Vendor C": 0.28,
+        "Vendor D": 0.28,
+        "Vendor E": 0.07
+      },
+      "post_exit": {
+        "Vendor A": 0.0,
+        "Vendor B": 0.34,
+        "Vendor C": 0.32,
+        "Vendor D": 0.27,
+        "Vendor E": 0.07
+      }
+    }
+  },
+  "overlap": {
+    "dual_run_start": "2026-04-01",
+    "dual_run_end": "2026-05-26",
+    "notice_start": "2026-05-11",
+    "notice_end": "2026-06-10",
+    "paid_not_delivering_start": "2026-05-27",
+    "paid_not_delivering_end": "2026-06-10",
+    "fte": 6
+  },
+  "capacity": {
+    "vendors": [
+      "Vendor A",
+      "Vendor B",
+      "Vendor C",
+      "Vendor D",
+      "Vendor E"
+    ],
+    "regions": [
+      "Bengaluru",
+      "London",
+      "New York",
+      "Singapore"
+    ],
+    "role_taxonomy": {
+      "names": [
+        "Data engineering",
+        "Integration",
+        "QA",
+        "Business analysis",
+        "Back-end development",
+        "Front-end development",
+        "Cloud and DevOps",
+        "Architecture",
+        "Project and delivery management",
+        "Scrum and agile delivery"
+      ],
+      "basis": "scenario assumption, role taxonomy; confirmed by Kakali 14 Nov 2026"
+    },
+    "peak_quarter": "Q3 2027",
+    "peak_demand_before": 205,
+    "deferred_requisitions": {
+      "Client portal": 9,
+      "Finance close": 4,
+      "Cloud migration wave 2": 6
+    },
+    "internal_fte": 65,
+    "role_bridge": [
+      {
+        "role": "Data engineering",
+        "demand": 62,
+        "supply_before": 48,
+        "M1": 8,
+        "M2": 0,
+        "M3": 6,
+        "M4": 0
+      },
+      {
+        "role": "Integration",
+        "demand": 28,
+        "supply_before": 22,
+        "M1": 0,
+        "M2": 6,
+        "M3": 0,
+        "M4": 0
+      },
+      {
+        "role": "QA",
+        "demand": 14,
+        "supply_before": 23,
+        "M1": -5,
+        "M2": 0,
+        "M3": -6,
+        "M4": 1
+      },
+      {
+        "role": "Business analysis",
+        "demand": 20,
+        "supply_before": 31,
+        "M1": -3,
+        "M2": -6,
+        "M3": 0,
+        "M4": -1
+      },
+      {
+        "role": "Six other roles",
+        "demand": 62,
+        "supply_before": 62,
+        "M1": 0,
+        "M2": 0,
+        "M3": 0,
+        "M4": 0
+      }
+    ],
+    "cell_tolerance_basis": "assumption: absolute FTE reconciliation tolerance for role-region-quarter cells."
+  },
+  "portfolio": [
+    {
+      "id": "1",
+      "name": "Operating platform consolidation",
+      "bu": "Client Ops",
+      "region": "London",
+      "value": "H",
+      "feasibility": "M",
+      "after_rescope_m": 11.1,
+      "before_rescope_m": 12.0,
+      "moved_m": 0.9,
+      "decision": "Fund",
+      "owner": "Head of Platform",
+      "basis": "Spec §5 portfolio table; initiative labels, functional unit, region, value-feasibility rating, amount, owner role and funding decision."
+    },
+    {
+      "id": "2",
+      "name": "Investor reporting uplift",
+      "bu": "Investment Ops",
+      "region": "New York",
+      "value": "H",
+      "feasibility": "H",
+      "after_rescope_m": 6.5,
+      "decision": "Fund, gated on adoption - phase 2 only if 40% of target users by Q4 2026",
+      "owner": "Head of Client Reporting",
+      "basis": "Spec §5 portfolio table; initiative labels, functional unit, region, value-feasibility rating, amount, owner role and funding decision."
+    },
+    {
+      "id": "3",
+      "name": "Position golden source",
+      "bu": "Cross",
+      "region": "Bengaluru",
+      "value": "H",
+      "feasibility": "M",
+      "after_rescope_m": 9.0,
+      "decision": "Fund",
+      "owner": "Head of Data",
+      "basis": "Spec §5 portfolio table; initiative labels, functional unit, region, value-feasibility rating, amount, owner role and funding decision."
+    },
+    {
+      "id": "4",
+      "name": "AI document extraction",
+      "bu": "Client Ops",
+      "region": "London",
+      "value": "M",
+      "feasibility": "H",
+      "after_rescope_m": 3.2,
+      "decision": "Fund, gated at Q2 2026 review - paused Jul 2026 (D5); Year 2-3 spend conditional on 31 Dec 2026 re-entry gate (D5)",
+      "owner": "Deal Technology Lead",
+      "basis": "Spec §5 portfolio table; initiative labels, functional unit, region, value-feasibility rating, amount, owner role and funding decision."
+    },
+    {
+      "id": "5",
+      "name": "CRM replacement",
+      "bu": "Corporate Services",
+      "region": "Singapore",
+      "value": "L",
+      "feasibility": "L",
+      "after_rescope_m": 4.8,
+      "decision": "Stop",
+      "owner": "Head of CRM",
+      "basis": "Spec §5 portfolio table; initiative labels, functional unit, region, value-feasibility rating, amount, owner role and funding decision."
+    },
+    {
+      "id": "5a",
+      "name": "CRM configuration (re-scope)",
+      "bu": "Corporate Services",
+      "region": "Singapore",
+      "value": "M",
+      "feasibility": "M",
+      "after_rescope_m": 0.9,
+      "decision": "Fund; live ~Jun 2026 per D1",
+      "owner": "Head of CRM",
+      "basis": "Spec §5 portfolio table; initiative labels, functional unit, region, value-feasibility rating, amount, owner role and funding decision."
+    },
+    {
+      "id": "6",
+      "name": "Regulatory reporting change",
+      "bu": "Cross",
+      "region": "London",
+      "value": "H",
+      "feasibility": "H",
+      "after_rescope_m": 5.1,
+      "decision": "Fund (mandatory)",
+      "owner": "Head of Reg Change",
+      "basis": "Spec §5 portfolio table; initiative labels, functional unit, region, value-feasibility rating, amount, owner role and funding decision."
+    },
+    {
+      "id": "7",
+      "name": "Cloud migration wave 2",
+      "bu": "Cross",
+      "region": "Bengaluru",
+      "value": "M",
+      "feasibility": "M",
+      "after_rescope_m": 7.4,
+      "decision": "Defer - outside envelope",
+      "owner": "Head of Infrastructure",
+      "basis": "Spec §5 portfolio table; initiative labels, functional unit, region, value-feasibility rating, amount, owner role and funding decision."
+    },
+    {
+      "id": "8",
+      "name": "Vendor rationalisation",
+      "bu": "Cross",
+      "region": "Bengaluru",
+      "value": "M",
+      "feasibility": "H",
+      "after_rescope_m": 1.1,
+      "decision": "Fund",
+      "owner": "Procurement Lead",
+      "basis": "Spec §5 portfolio table; initiative labels, functional unit, region, value-feasibility rating, amount, owner role and funding decision."
+    },
+    {
+      "id": "9",
+      "name": "Cyber uplift",
+      "bu": "Cross",
+      "region": "New York",
+      "value": "H",
+      "feasibility": "M",
+      "after_rescope_m": 3.9,
+      "decision": "Fund",
+      "owner": "CISO office",
+      "basis": "Spec §5 portfolio table; initiative labels, functional unit, region, value-feasibility rating, amount, owner role and funding decision."
+    },
+    {
+      "id": "10",
+      "name": "Finance close and reconciliation",
+      "bu": "Corporate Services",
+      "region": "Bengaluru",
+      "value": "M",
+      "feasibility": "M",
+      "after_rescope_m": 2.8,
+      "decision": "Defer - outside envelope",
+      "owner": "Head of Finance Ops",
+      "basis": "Spec §5 portfolio table; initiative labels, functional unit, region, value-feasibility rating, amount, owner role and funding decision."
+    },
+    {
+      "id": "11",
+      "name": "Client portal",
+      "bu": "Investment Ops",
+      "region": "Singapore",
+      "value": "M",
+      "feasibility": "L",
+      "after_rescope_m": 5.6,
+      "decision": "Defer - outside envelope",
+      "owner": "Head of Digital",
+      "basis": "Spec §5 portfolio table; initiative labels, functional unit, region, value-feasibility rating, amount, owner role and funding decision."
+    },
+    {
+      "id": "12",
+      "name": "ESG data",
+      "bu": "Corporate Services",
+      "region": "London",
+      "value": "L",
+      "feasibility": "M",
+      "after_rescope_m": 2.4,
+      "decision": "Stop",
+      "owner": "Head of ESG",
+      "basis": "Spec §5 portfolio table; initiative labels, functional unit, region, value-feasibility rating, amount, owner role and funding decision."
+    }
+  ],
+  "decision_data": [
+    {
+      "id": "D1",
+      "options": "Replace / configure / defer",
+      "decider": "Exec sponsor",
+      "page": "Page 1",
+      "status": "in-scenario actual (simulated)",
+      "evidence": [
+        [
+          "User interviews",
+          14,
+          "count"
+        ],
+        [
+          "Incumbent capability coverage",
+          0.62,
+          "fraction"
+        ]
+      ],
+      "outcomes": [
+        [
+          "Scope withdrawn",
+          4.8,
+          "$m"
+        ],
+        [
+          "Configured build lead time",
+          11,
+          "weeks"
+        ]
+      ],
+      "period": "Mar 2026",
+      "basis": "Spec §8 decision log; dates, options, decider, structured measures and status are synthetic inputs."
+    },
+    {
+      "id": "D2",
+      "options": "Hold envelope / re-baseline / seek more",
+      "decider": "SteerCo (exec sponsor)",
+      "page": "Page 1",
+      "status": "in-scenario actual (simulated)",
+      "evidence": [
+        [
+          "Peak demand before decisions",
+          205,
+          "FTE"
+        ],
+        [
+          "Contracted supply",
+          186,
+          "FTE"
+        ]
+      ],
+      "outcomes": [
+        [
+          "Peak demand after re-baseline",
+          186,
+          "FTE"
+        ],
+        [
+          "Unfilled requisitions cancelled",
+          19,
+          "count"
+        ],
+        [
+          "Envelope",
+          42.84,
+          "$m"
+        ]
+      ],
+      "period": "Apr 2026",
+      "basis": "Spec §8 decision log; dates, options, decider, structured measures and status are synthetic inputs."
+    },
+    {
+      "id": "D3",
+      "options": "Renew / re-compete / insource",
+      "decider": "Exec sponsor",
+      "page": "Page 3",
+      "status": "in-scenario actual (simulated)",
+      "evidence": [
+        [
+          "Defect escape rate at review",
+          0.041,
+          "fraction"
+        ],
+        [
+          "Sustained target",
+          0.015,
+          "fraction"
+        ],
+        [
+          "SLA breaches in quarter",
+          2,
+          "count"
+        ]
+      ],
+      "outcomes": [
+        [
+          "Exit gate",
+          0.02,
+          "fraction"
+        ],
+        [
+          "Defect escape at gate",
+          0.016,
+          "fraction"
+        ],
+        [
+          "Time to exit gate",
+          54,
+          "days"
+        ],
+        [
+          "Held milestone payments released",
+          2,
+          "count"
+        ],
+        [
+          "Amber sustained target period",
+          2,
+          "months",
+          "assumption (criterion, not met at cut-off)"
+        ]
+      ],
+      "period": "May 2026",
+      "basis": "Spec §8 decision log; dates, options, decider, structured measures and status are synthetic inputs."
+    },
+    {
+      "id": "D4",
+      "options": "Crash / descope / move date",
+      "decider": "Exec sponsor with Compliance",
+      "page": "Page 2",
+      "status": "mixed: in-scenario actual (simulated) to 31 Oct 2026; forecast (simulated) after",
+      "evidence": [
+        [
+          "Schedule float before recovery",
+          0,
+          "days"
+        ]
+      ],
+      "outcomes": [
+        [
+          "Schedule float after recovery",
+          11,
+          "days"
+        ],
+        [
+          "Regulatory commitment date",
+          "2027-01-29",
+          "forecast (simulated)"
+        ]
+      ],
+      "period": "Jun 2026",
+      "basis": "Spec §8 decision log; dates, options, decider, structured measures and status are synthetic inputs."
+    },
+    {
+      "id": "D5",
+      "options": "Expand / fix / pause",
+      "decider": "SteerCo (digital lead)",
+      "page": "Page 4",
+      "status": "mixed: in-scenario actual (simulated) to 31 Oct 2026; forecast (simulated) after",
+      "evidence": [
+        [
+          "Use cases passing held-out evaluation",
+          2,
+          "count"
+        ],
+        [
+          "Use cases tested",
+          9,
+          "count"
+        ]
+      ],
+      "outcomes": [
+        [
+          "Use cases live",
+          2,
+          "count"
+        ],
+        [
+          "Use cases re-scoped",
+          5,
+          "count"
+        ],
+        [
+          "Use cases retired",
+          2,
+          "count"
+        ],
+        [
+          "Re-entry gate date",
+          "2026-12-31",
+          "forecast (simulated)"
+        ]
+      ],
+      "period": "Jul 2026",
+      "basis": "Spec §8 decision log; dates, options, decider, structured measures and status are synthetic inputs."
+    }
+  ],
+  "input_basis": {
+    "seed": "Stage A brief §0; fixed generator seed.",
+    "as_at": "Spec §4; 31 October 2026 scenario cut-off.",
+    "years": "Spec §4; Year 1 2026, Year 2 2027, Year 3 2028.",
+    "envelope_label": "Confirmed §19 choice; assumed approval for the generic scenario.",
+    "funding_by_year_m": "Spec §10.1 and confirmed §19; three-year funded profile.",
+    "other_costs_by_year_m": "Spec §10.1; software, cloud, incremental backfill and non-vendor costs.",
+    "vendor": "Spec §10.1 and §10.3; each supplied rate, month count and vendor-FTE forecast is a scenario input; calculated costs are formula outputs.",
+    "overlap": "Spec §10.3; dated transition assumptions; workday counts and costs are formula outputs.",
+    "capacity": "Spec §§4, 10.2 and 10.3; generic vendors/regions, named roles, peak controls and role-bridge inputs. Role taxonomy is a scenario assumption confirmed 14 Nov 2026.",
+    "portfolio": "Spec §5 portfolio table and §10.1 funding bridge; each line carries the row-level basis.",
+    "decision_data": "Spec §8 decision log and confirmed §19 D5 split; each decision carries the row-level basis.",
+    "cell_tolerance_fte": "assumption: absolute FTE cell tolerance for role × region × quarter reconciliation.",
+    "vendor_a_region": "synthetic allocation – not in spec v1.5; selected region for the Vendor A QA transition.",
+    "q1_2026_de_shortfall_by_region": "synthetic allocation – not in spec v1.5; Q1 data-engineering role total remains −14 FTE.",
+    "q2_2026_pre_a1_demand_total": "Stage A §0 pre-correction snapshot; Q2 demand before the agreed +1 FTE correction.",
+    "q2_2026_demand_increment": "Vendor D data engineers located in Bengaluru – line 3 position golden source, Bengaluru; agreed 14 Nov 2026.",
+    "vendor_d_de_baseline_fte": "Spec §10.3, E3.2; six Vendor D data engineers are baseline supply from 1 Apr 2026.",
+    "vendor.grid_fte_by_quarter": "Spec §10.1; first-day grid supply; Q4 2026 is 99 FTE on 1 Oct, distinct from the 110-FTE Nov-Dec cost average.",
+    "vendor.share_profiles": "assumption: synthetic base supplier allocation used to seed regional supplier rows; not a commercial fact."
+  },
+  "cell_tolerance_fte": 2,
+  "vendor_a_region": "London",
+  "q1_2026_de_shortfall_by_region": {
+    "Bengaluru": -14,
+    "London": 0,
+    "New York": 0,
+    "Singapore": 0
+  },
+  "q2_2026_pre_a1_demand_total": 163,
+  "q2_2026_demand_increment": {
+    "role": "Data engineering",
+    "region": "Bengaluru",
+    "fte": 1,
+    "basis": "Vendor D data engineers located in Bengaluru – line 3 position golden source, Bengaluru; agreed 14 Nov 2026."
+  },
+  "vendor_d_de_baseline_fte": 6,
+  "vendor_scorecard": {
+    "basis": "assumption; synthetic simulated inputs per brief §2",
+    "thresholds": {
+      "sla": {
+        "green_min": 95,
+        "amber_min": 90,
+        "basis": "assumption"
+      },
+      "quality": {
+        "green_max": 1.5,
+        "amber_max": 2.0,
+        "basis": "assumption"
+      },
+      "delivery": {
+        "green_min": 90,
+        "amber_min": 80,
+        "basis": "assumption"
+      },
+      "cost": {
+        "green_abs_max": 5,
+        "amber_abs_max": 10,
+        "basis": "assumption"
+      }
+    },
+    "vendors": {
+      "Vendor A": {
+        "sla": 97,
+        "quality": 1.4,
+        "delivery": 93,
+        "cost_variance": 3.0,
+        "basis": "assumption; synthetic scorecard measure as at 31 Oct 2026"
+      },
+      "Vendor B": {
+        "sla": 96,
+        "quality": 1.6,
+        "delivery": 91,
+        "cost_variance": 4.0,
+        "basis": "assumption; synthetic scorecard measure as at 31 Oct 2026"
+      },
+      "Vendor C": {
+        "sla": 98,
+        "quality": 1.2,
+        "delivery": 95,
+        "cost_variance": 2.0,
+        "basis": "assumption; synthetic scorecard measure as at 31 Oct 2026"
+      },
+      "Vendor D": {
+        "sla": 97,
+        "quality": 1.3,
+        "delivery": 94,
+        "cost_variance": 3.5,
+        "basis": "assumption; synthetic scorecard measure as at 31 Oct 2026"
+      },
+      "Vendor E": {
+        "sla": 96,
+        "quality": 1.4,
+        "delivery": 92,
+        "cost_variance": 4.5,
+        "basis": "assumption; synthetic scorecard measure as at 31 Oct 2026"
+      }
+    },
+    "quality_monthly_pct": [
+      3.6,
+      3.9,
+      4.1,
+      4.1,
+      2.6,
+      1.6,
+      1.4,
+      1.7,
+      1.5,
+      1.6
+    ],
+    "remediation": {
+      "start": "2026-05-01",
+      "checkpoints": [
+        {
+          "name": "Day 30",
+          "date": "2026-05-31",
+          "criterion_max_pct": 3.0,
+          "value_pct": 2.6,
+          "basis": "assumption"
+        },
+        {
+          "name": "Exit gate",
+          "date": "2026-06-24",
+          "criterion_max_pct": 2.0,
+          "value_pct": 1.6,
+          "basis": "assumption consistent with spec §8 D3"
+        },
+        {
+          "name": "Day 60",
+          "date": "2026-06-30",
+          "criterion_max_pct": 2.0,
+          "value_pct": 1.6,
+          "basis": "assumption"
+        },
+        {
+          "name": "Day 90",
+          "date": "2026-07-30",
+          "criterion_max_pct": 1.5,
+          "value_pct": 1.4,
+          "basis": "assumption"
+        }
+      ],
+      "amber_consecutive_month_threshold": 1.5,
+      "amber_rule_basis": "assumption"
+    },
+    "kt_milestones": [
+      {
+        "id": "KT1",
+        "date": "2026-04-01",
+        "milestone": "Dual run starts; vendor D six data engineers on site",
+        "basis": "assumption inside spec §10.3 dates"
+      },
+      {
+        "id": "KT2",
+        "date": "2026-04-10",
+        "milestone": "Access, environments and test assets handed over",
+        "basis": "assumption"
+      },
+      {
+        "id": "KT3",
+        "date": "2026-04-24",
+        "milestone": "Shadow: vendor D runs with vendor A observing",
+        "basis": "assumption"
+      },
+      {
+        "id": "KT4",
+        "date": "2026-05-08",
+        "milestone": "Reverse shadow: vendor D leads, vendor A observes",
+        "basis": "assumption"
+      },
+      {
+        "id": "KT5",
+        "date": "2026-05-22",
+        "milestone": "Runbooks and test packs signed off",
+        "basis": "assumption"
+      },
+      {
+        "id": "KT6",
+        "date": "2026-05-26",
+        "milestone": "Dual run ends; vendor D sole delivery",
+        "basis": "assumption inside spec §10.3 dates"
+      }
+    ],
+    "continuity_risks": [
+      {
+        "id": "KP1",
+        "type": "Key person",
+        "role": "vendor A test lead",
+        "vendor": "Vendor A",
+        "risk": "Regression suite knowledge",
+        "trigger": "Notice served 11 May 2026",
+        "owner": "Test lead",
+        "date": "2026-05-11",
+        "basis": "spec §10.3 E3.2"
+      },
+      {
+        "id": "KP2",
+        "type": "Key person",
+        "role": "vendor D data lead",
+        "vendor": "Vendor D",
+        "risk": "Golden source pipeline",
+        "trigger": "Unplanned absence > 5 working days",
+        "owner": "Data workstream lead",
+        "date": "2026-04-01",
+        "basis": "assumption"
+      },
+      {
+        "id": "SS1",
+        "type": "Single-source skill",
+        "role": "Regulatory reporting schema specialist",
+        "vendor": "Vendor B",
+        "risk": "Regulatory reporting schema",
+        "trigger": "One qualified person on the regulatory change",
+        "owner": "Regulatory workstream lead",
+        "date": "2026-07-01",
+        "basis": "assumption"
+      }
+    ]
+  },
+  "commercial": {
+    "basis": "assumption; synthetic rate card calibrated to the specified blended rate",
+    "basis_rate_card": "assumption; specialist roles near $600/day and role-vendor rates synthetic",
+    "rate_card": {
+      "Vendor A": {
+        "Data engineering": 590,
+        "Integration": 450,
+        "QA": 600,
+        "Business analysis": 450,
+        "Back-end development": 450,
+        "Front-end development": 450,
+        "Cloud and DevOps": 450,
+        "Architecture": 450,
+        "Project and delivery management": 450,
+        "Scrum and agile delivery": 450
+      },
+      "Vendor B": {
+        "Data engineering": 590,
+        "Integration": 450,
+        "QA": 580,
+        "Business analysis": 450,
+        "Back-end development": 450,
+        "Front-end development": 450,
+        "Cloud and DevOps": 450,
+        "Architecture": 450,
+        "Project and delivery management": 450,
+        "Scrum and agile delivery": 450
+      },
+      "Vendor C": {
+        "Data engineering": 590,
+        "Integration": 450,
+        "QA": 580,
+        "Business analysis": 450,
+        "Back-end development": 450,
+        "Front-end development": 450,
+        "Cloud and DevOps": 450,
+        "Architecture": 450,
+        "Project and delivery management": 450,
+        "Scrum and agile delivery": 450
+      },
+      "Vendor D": {
+        "Data engineering": 550,
+        "Integration": 450,
+        "QA": 580,
+        "Business analysis": 450,
+        "Back-end development": 450,
+        "Front-end development": 450,
+        "Cloud and DevOps": 450,
+        "Architecture": 450,
+        "Project and delivery management": 450,
+        "Scrum and agile delivery": 450
+      },
+      "Vendor E": {
+        "Data engineering": 590,
+        "Integration": 450,
+        "QA": 580,
+        "Business analysis": 450,
+        "Back-end development": 450,
+        "Front-end development": 450,
+        "Cloud and DevOps": 450,
+        "Architecture": 450,
+        "Project and delivery management": 450,
+        "Scrum and agile delivery": 450
+      }
+    },
+    "rate_blend_target_usd_per_day": 480,
+    "remediation_parallel_run_added_spend_usd": 0,
+    "basis_remediation": "spec §8 D3; no added spend",
+    "basis_contingency": "spec §10.3 and funding profile; contingency drawdown separately",
+    "rate_card_basis": {
+      "Vendor A": {
+        "Data engineering": "assumption; synthetic vendor-role day rate",
+        "Integration": "assumption; synthetic vendor-role day rate",
+        "QA": "assumption; synthetic vendor-role day rate",
+        "Business analysis": "assumption; synthetic vendor-role day rate",
+        "Back-end development": "assumption; synthetic vendor-role day rate",
+        "Front-end development": "assumption; synthetic vendor-role day rate",
+        "Cloud and DevOps": "assumption; synthetic vendor-role day rate",
+        "Architecture": "assumption; synthetic vendor-role day rate",
+        "Project and delivery management": "assumption; synthetic vendor-role day rate",
+        "Scrum and agile delivery": "assumption; synthetic vendor-role day rate"
+      },
+      "Vendor B": {
+        "Data engineering": "assumption; synthetic vendor-role day rate",
+        "Integration": "assumption; synthetic vendor-role day rate",
+        "QA": "assumption; synthetic vendor-role day rate",
+        "Business analysis": "assumption; synthetic vendor-role day rate",
+        "Back-end development": "assumption; synthetic vendor-role day rate",
+        "Front-end development": "assumption; synthetic vendor-role day rate",
+        "Cloud and DevOps": "assumption; synthetic vendor-role day rate",
+        "Architecture": "assumption; synthetic vendor-role day rate",
+        "Project and delivery management": "assumption; synthetic vendor-role day rate",
+        "Scrum and agile delivery": "assumption; synthetic vendor-role day rate"
+      },
+      "Vendor C": {
+        "Data engineering": "assumption; synthetic vendor-role day rate",
+        "Integration": "assumption; synthetic vendor-role day rate",
+        "QA": "assumption; synthetic vendor-role day rate",
+        "Business analysis": "assumption; synthetic vendor-role day rate",
+        "Back-end development": "assumption; synthetic vendor-role day rate",
+        "Front-end development": "assumption; synthetic vendor-role day rate",
+        "Cloud and DevOps": "assumption; synthetic vendor-role day rate",
+        "Architecture": "assumption; synthetic vendor-role day rate",
+        "Project and delivery management": "assumption; synthetic vendor-role day rate",
+        "Scrum and agile delivery": "assumption; synthetic vendor-role day rate"
+      },
+      "Vendor D": {
+        "Data engineering": "assumption; synthetic vendor-role day rate",
+        "Integration": "assumption; synthetic vendor-role day rate",
+        "QA": "assumption; synthetic vendor-role day rate",
+        "Business analysis": "assumption; synthetic vendor-role day rate",
+        "Back-end development": "assumption; synthetic vendor-role day rate",
+        "Front-end development": "assumption; synthetic vendor-role day rate",
+        "Cloud and DevOps": "assumption; synthetic vendor-role day rate",
+        "Architecture": "assumption; synthetic vendor-role day rate",
+        "Project and delivery management": "assumption; synthetic vendor-role day rate",
+        "Scrum and agile delivery": "assumption; synthetic vendor-role day rate"
+      },
+      "Vendor E": {
+        "Data engineering": "assumption; synthetic vendor-role day rate",
+        "Integration": "assumption; synthetic vendor-role day rate",
+        "QA": "assumption; synthetic vendor-role day rate",
+        "Business analysis": "assumption; synthetic vendor-role day rate",
+        "Back-end development": "assumption; synthetic vendor-role day rate",
+        "Front-end development": "assumption; synthetic vendor-role day rate",
+        "Cloud and DevOps": "assumption; synthetic vendor-role day rate",
+        "Architecture": "assumption; synthetic vendor-role day rate",
+        "Project and delivery management": "assumption; synthetic vendor-role day rate",
+        "Scrum and agile delivery": "assumption; synthetic vendor-role day rate"
+      }
+    },
+    "rate_scaling": {
+      "label": "calibration factor to the scenario blended rate – assumption",
+      "basis": "assumption; each year scales its raw weighted vendor-role rate to the scenario blended rate"
+    }
+  },
+  "plan": {
+    "basis": "assumption; workstream labels are synthetic; milestones sourced per brief §4.1",
+    "workstreams": [
+      {
+        "id": "W1",
+        "name": "Data and platform",
+        "lines": "1, 3, 5a",
+        "basis": "assumption"
+      },
+      {
+        "id": "W2",
+        "name": "Regulatory and control",
+        "lines": "6, 9",
+        "basis": "assumption"
+      },
+      {
+        "id": "W3",
+        "name": "Client, AI and vendors",
+        "lines": "2, 4, 8",
+        "basis": "assumption"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "M01",
+        "workstream": "W1",
+        "date": "2026-03-31",
+        "name": "M1 retrain lands (8 data engineers)",
+        "source": "§10.3",
+        "predecessors": "",
+        "basis": "§10.3",
+        "on_time": true,
+        "on_time_basis": "assumption; six milestones due by 31 Oct 2026 were met on time"
+      },
+      {
+        "id": "M02",
+        "workstream": "W1",
+        "date": "2026-04-01",
+        "name": "Vendor D data engineers start",
+        "source": "§10.3",
+        "predecessors": "M01",
+        "basis": "§10.3",
+        "on_time": true,
+        "on_time_basis": "assumption; six milestones due by 31 Oct 2026 were met on time"
+      },
+      {
+        "id": "M03",
+        "workstream": "W1",
+        "date": "2026-06-30",
+        "name": "CRM configuration live (D1 + 11 weeks)",
+        "source": "§8 D1",
+        "predecessors": "M02",
+        "basis": "§8 D1",
+        "on_time": true,
+        "on_time_basis": "assumption; six milestones due by 31 Oct 2026 were met on time"
+      },
+      {
+        "id": "M04",
+        "workstream": "W1",
+        "date": "2026-12-31",
+        "name": "Golden source live for two business units",
+        "source": "PORTFOLIO Q7",
+        "predecessors": "M02",
+        "basis": "PORTFOLIO Q7",
+        "on_time": null,
+        "on_time_basis": "assumption; milestone not due by 31 Oct 2026"
+      },
+      {
+        "id": "M05",
+        "workstream": "W1",
+        "date": "2027-06-30",
+        "name": "Platform consolidation: first two business units 60% migrated",
+        "source": "PORTFOLIO Q5",
+        "predecessors": "",
+        "basis": "PORTFOLIO Q5",
+        "on_time": null,
+        "on_time_basis": "assumption; milestone not due by 31 Oct 2026"
+      },
+      {
+        "id": "M06",
+        "workstream": "W2",
+        "date": "2026-06-30",
+        "name": "Two regulatory reports phased to phase 2 (D4)",
+        "source": "§8 D4",
+        "predecessors": "",
+        "basis": "§8 D4",
+        "on_time": true,
+        "on_time_basis": "assumption; six milestones due by 31 Oct 2026 were met on time"
+      },
+      {
+        "id": "M07",
+        "workstream": "W2",
+        "date": "2026-07-01",
+        "name": "Regulatory change build starts (Q3 2026)",
+        "source": "§10.2",
+        "predecessors": "M02, M06",
+        "basis": "§10.2",
+        "on_time": true,
+        "on_time_basis": "assumption; six milestones due by 31 Oct 2026 were met on time"
+      },
+      {
+        "id": "M08",
+        "workstream": "W2",
+        "date": "2027-01-14",
+        "name": "Regulatory change complete (forecast) – 11 working days before the date",
+        "source": "§6, D4",
+        "predecessors": "M07",
+        "basis": "§6, D4",
+        "on_time": null,
+        "on_time_basis": "assumption; milestone not due by 31 Oct 2026"
+      },
+      {
+        "id": "M09",
+        "workstream": "W2",
+        "date": "2027-01-29",
+        "name": "Regulatory date (forecast)",
+        "source": "§8 D4",
+        "predecessors": "M08",
+        "basis": "§8 D4",
+        "on_time": null,
+        "on_time_basis": "assumption; milestone not due by 31 Oct 2026"
+      },
+      {
+        "id": "M10",
+        "workstream": "W2",
+        "date": "2027-03-31",
+        "name": "Cyber: 90% control coverage of priority set (forecast, assumption)",
+        "source": "PORTFOLIO Q14",
+        "predecessors": "",
+        "basis": "PORTFOLIO Q14",
+        "on_time": null,
+        "on_time_basis": "assumption; milestone not due by 31 Oct 2026"
+      },
+      {
+        "id": "M11",
+        "workstream": "W3",
+        "date": "2026-06-24",
+        "name": "Vendor B exit gate met at 1.6%",
+        "source": "§8 D3",
+        "predecessors": "",
+        "basis": "§8 D3",
+        "on_time": true,
+        "on_time_basis": "assumption; six milestones due by 31 Oct 2026 were met on time"
+      },
+      {
+        "id": "M12",
+        "workstream": "W3",
+        "date": "2026-12-31",
+        "name": "Investor reporting: 40% self-service gate (forecast)",
+        "source": "PORTFOLIO Q6",
+        "predecessors": "",
+        "basis": "PORTFOLIO Q6",
+        "on_time": null,
+        "on_time_basis": "assumption; milestone not due by 31 Oct 2026"
+      },
+      {
+        "id": "M13",
+        "workstream": "W3",
+        "date": "2026-12-31",
+        "name": "AI document extraction re-entry gate (forecast)",
+        "source": "§8 D5",
+        "predecessors": "",
+        "basis": "§8 D5",
+        "on_time": null,
+        "on_time_basis": "assumption; milestone not due by 31 Oct 2026"
+      },
+      {
+        "id": "M14",
+        "workstream": "W3",
+        "date": "2027-12-31",
+        "name": "Active vendors down to three (forecast, assumption)",
+        "source": "PORTFOLIO Q13",
+        "predecessors": "M11",
+        "basis": "PORTFOLIO Q13",
+        "on_time": null,
+        "on_time_basis": "assumption; milestone not due by 31 Oct 2026"
+      }
+    ],
+    "daci": [
+      {
+        "type": "Funding release, tranche 2",
+        "driver": "Programme director",
+        "approver": "Exec sponsor",
+        "contributors": "Finance, BU heads",
+        "informed": "SteerCo",
+        "basis": "Spec §6 decision rights"
+      },
+      {
+        "type": "Scope change above 10% of a workstream",
+        "driver": "Workstream lead",
+        "approver": "Programme director",
+        "contributors": "Product, vendor",
+        "informed": "SteerCo",
+        "basis": "Spec §6 decision rights"
+      },
+      {
+        "type": "Vendor award or re-compete",
+        "driver": "Procurement",
+        "approver": "Exec sponsor",
+        "contributors": "Programme, risk, finance",
+        "informed": "SteerCo",
+        "basis": "Spec §6 decision rights"
+      },
+      {
+        "type": "Go-live readiness",
+        "driver": "Product owner",
+        "approver": "Programme director",
+        "contributors": "Ops, change, risk",
+        "informed": "BU head",
+        "basis": "Spec §6 decision rights"
+      },
+      {
+        "type": "Regulatory commitment date",
+        "driver": "Compliance",
+        "approver": "Exec sponsor",
+        "contributors": "Programme, legal",
+        "informed": "Board",
+        "basis": "Spec §6 decision rights"
+      },
+      {
+        "type": "Benefit re-baseline",
+        "driver": "Benefits owner",
+        "approver": "Finance",
+        "contributors": "Programme, BU",
+        "informed": "SteerCo",
+        "basis": "Spec §6 decision rights"
+      }
+    ],
+    "raid": [
+      {
+        "id": "R1",
+        "type": "Risk",
+        "description": "Data engineering slip delays golden source",
+        "owner": "Data workstream lead",
+        "trigger": "M1 or Vendor D tranche slips one month",
+        "date": "2026-04-01",
+        "basis": "assumption; structured simulated RAID input"
+      },
+      {
+        "id": "R2",
+        "type": "Risk",
+        "description": "Regulatory date float falls below threshold",
+        "owner": "Regulatory workstream lead",
+        "trigger": "Float < 11 working days",
+        "date": "2026-07-01",
+        "basis": "assumption; structured simulated RAID input"
+      },
+      {
+        "id": "R3",
+        "type": "Risk",
+        "description": "Vendor B quality relapses",
+        "owner": "Vendor manager",
+        "trigger": "Defect escape > 2.0%",
+        "date": "2026-10-31",
+        "basis": "assumption; structured simulated RAID input"
+      },
+      {
+        "id": "R4",
+        "type": "Risk",
+        "description": "Key person loss on Vendor D data lead",
+        "owner": "Data workstream lead",
+        "trigger": "KP2 trigger met",
+        "date": "2026-04-01",
+        "basis": "assumption; structured simulated RAID input"
+      },
+      {
+        "id": "R5",
+        "type": "Risk",
+        "description": "Investor reporting misses 40% gate",
+        "owner": "Client reporting lead",
+        "trigger": "Self-service adoption < 40% by Q4 2026",
+        "date": "2026-12-31",
+        "basis": "assumption; structured simulated RAID input"
+      }
+    ],
+    "escalation": [
+      {
+        "role": "Workstream lead",
+        "response": "1 working day",
+        "basis": "assumption"
+      },
+      {
+        "role": "Programme director",
+        "response": "2 working days",
+        "basis": "assumption"
+      },
+      {
+        "role": "Exec sponsor",
+        "response": "5 working days",
+        "basis": "assumption"
+      },
+      {
+        "role": "SteerCo",
+        "response": "next fortnightly SteerCo",
+        "basis": "assumption"
+      }
+    ],
+    "basis_schedule": "spec §6 / §8 D4; no squads crashed; two reports descoped into phase 2",
+    "basis_quality": "spec §8 D3; remediation outcome and gate"
+  },
+  "de_demand_region": {
+    "region": "Bengaluru",
+    "basis": "assumption informed by the position golden-source location in spec §5; synthetic regional demand allocation"
+  },
+  "benefits": {
+    "basis": "assumption; synthetic scenario benefits and adoption measures, except where a source cell or spec section is cited",
+    "register": [
+      {
+        "id": "B1",
+        "category": "Cost-out",
+        "portfolio_line": "8 Vendor rationalisation",
+        "benefit": "Reduce the active vendor estate",
+        "measure": "Active vendors",
+        "baseline_value": 5,
+        "baseline_date": "2026-01-01",
+        "target_value": 3,
+        "target_date": "2027-12-31",
+        "value": null,
+        "value_source": "formula: count VENDORS disposition rows not labelled exited",
+        "value_date": "2026-10-31",
+        "owner": "Procurement Lead",
+        "source": "VENDORS (Vendor A exited 10 Jun 2026)",
+        "basis": "assumption; baseline and target align with PORTFOLIO Q13; current value is formula-linked to VENDORS"
+      },
+      {
+        "id": "B2",
+        "category": "Cost-out",
+        "portfolio_line": "1 Platform consolidation",
+        "benefit": "Retire legacy platform run costs",
+        "measure": "Run cost of retired platforms, $m a year",
+        "baseline_value": 0,
+        "baseline_date": "2026-01-01",
+        "target_value": 1.2,
+        "target_date": "2028-01-01",
+        "value": 1.2,
+        "value_date": "2028-01-01",
+        "owner": "Head of Platform",
+        "source": "assumption",
+        "basis": "assumption; annual run-budget effect from 1 Jan 2028"
+      },
+      {
+        "id": "B3",
+        "category": "Revenue enablement",
+        "portfolio_line": "2 Investor reporting uplift",
+        "benefit": "Enable self-service reporting adoption",
+        "measure": "Self-service share of target users",
+        "baseline_value": 0,
+        "baseline_date": "2026-01-01",
+        "target_value": 0.4,
+        "target_date": "2026-12-31",
+        "value": 0.4,
+        "value_date": "2026-12-31",
+        "owner": "Head of Client Reporting",
+        "source": "PORTFOLIO line 2 gate; E4.2 shows 31 Oct 2026 position",
+        "basis": "assumption; value is the forecast gate target; the 31 Oct 2026 adoption position is reported separately in E4.2"
+      },
+      {
+        "id": "B4",
+        "category": "Revenue enablement",
+        "portfolio_line": "5a CRM configuration",
+        "benefit": "Reduce client-data reconciliation effort",
+        "measure": "Hours a week per client service team spent reconciling client data",
+        "baseline_value": 12,
+        "baseline_date": "2026-06-01",
+        "target_value": 6,
+        "target_date": "2027-03-31",
+        "value": 6,
+        "value_date": "2027-03-31",
+        "owner": "Head of CRM",
+        "source": "PORTFOLIO R10 measure; assumption",
+        "basis": "assumption; baseline recorded in Jun 2026 and target by 31 Mar 2027"
+      },
+      {
+        "id": "B5",
+        "category": "Risk avoidance",
+        "portfolio_line": "D3 / vendor B",
+        "benefit": "Reduce escaped defects",
+        "measure": "Defect escape rate, vendor B",
+        "baseline_value": 4.1,
+        "baseline_date": "2026-03-31",
+        "target_value": 1.5,
+        "target_date": "2026-10-31",
+        "target_condition": "≤ 1.5% two consecutive months",
+        "value": null,
+        "value_source": "formula: VENDORS October defect escape value",
+        "value_date": "2026-10-31",
+        "owner": "Vendor manager",
+        "source": "VENDORS series",
+        "basis": "Spec §8 D3 and assumption; baseline and sustained target from decision log, current value formula-linked to VENDORS"
+      },
+      {
+        "id": "B6",
+        "category": "Risk avoidance",
+        "portfolio_line": "6 Regulatory reporting change",
+        "benefit": "File phase 1 regulatory returns on time",
+        "measure": "Phase 1 returns filed by the deadline",
+        "baseline_value": "n/a",
+        "baseline_date": null,
+        "target_value": 1,
+        "target_date": "2027-01-29",
+        "value": 1,
+        "value_date": "2027-01-29",
+        "owner": "Head of Reg Change",
+        "source": "PORTFOLIO R11; §8 D4",
+        "basis": "assumption; forecast outcome for the protected regulatory date"
+      }
+    ],
+    "adoption": {
+      "as_at": "2026-10-31",
+      "basis": "assumption; synthetic self-service adoption funnel as at 31 Oct 2026",
+      "definitions": {
+        "invited": "target users",
+        "habitual": "used self-service in each of the last four weeks",
+        "self_service_share": "habitual divided by invited; formula"
+      },
+      "business_units": [
+        {
+          "name": "Client Operations",
+          "invited": 120,
+          "trained": 104,
+          "active": 70,
+          "habitual": 44,
+          "basis": "assumption; synthetic adoption counts"
+        },
+        {
+          "name": "Investment Operations",
+          "invited": 150,
+          "trained": 138,
+          "active": 96,
+          "habitual": 54,
+          "basis": "assumption; synthetic adoption counts"
+        },
+        {
+          "name": "Corporate Services",
+          "invited": 60,
+          "trained": 52,
+          "active": 18,
+          "habitual": 9,
+          "basis": "assumption; synthetic adoption counts"
+        }
+      ]
+    },
+    "delivery_health": {
+      "basis": "assumption; RAG bands follow the specified operational gates",
+      "measures": [
+        {
+          "id": "H1",
+          "measure": "Float at regulatory date, working days",
+          "source_ref": "PLAN!B23",
+          "direction": "higher",
+          "green": 11,
+          "amber": 6,
+          "red": 5,
+          "amber_escalation": "Programme director",
+          "red_escalation": "Exec sponsor with Compliance (line 6 stop condition)",
+          "basis": "Spec §6 and §8 D4; 11-day post-recovery float"
+        },
+        {
+          "id": "H2",
+          "measure": "Milestones due by 31 Oct 2026 met on time, %",
+          "source_ref": "PLAN milestone on_time flags",
+          "direction": "higher",
+          "green": 0.9,
+          "amber": 0.8,
+          "red": 0.8,
+          "amber_escalation": "Programme director",
+          "red_escalation": "Exec sponsor",
+          "basis": "assumption; six due milestones and per-milestone on_time flags in params"
+        },
+        {
+          "id": "H3",
+          "measure": "Worst vendor defect escape rate, %",
+          "source_ref": "VENDORS!B30",
+          "direction": "lower",
+          "green": 1.5,
+          "amber": 2.0,
+          "red": 2.0,
+          "amber_escalation": "Vendor performance forum",
+          "red_escalation": "Procurement re-compete; exec sponsor approves (DACI)",
+          "basis": "Spec §8 D3; defect escape gates"
+        },
+        {
+          "id": "H4",
+          "measure": "Contingency drawn, % of contingency",
+          "source_ref": "COMMERCIAL!B75 / ASSUMPTIONS contingency",
+          "direction": "lower",
+          "green": 0.25,
+          "amber": 0.5,
+          "red": 0.5,
+          "amber_escalation": "Programme director",
+          "red_escalation": "Exec sponsor",
+          "basis": "assumption; escalation thresholds on contingency drawdown"
+        },
+        {
+          "id": "H5",
+          "measure": "Data-engineering gap, FTE, current quarter",
+          "source_ref": "CAPACITY quarter matching ASSUMPTIONS as-at date",
+          "direction": "lower",
+          "green": 0,
+          "amber": 2,
+          "red": 2,
+          "amber_escalation": "Workstream lead",
+          "red_escalation": "Programme director",
+          "basis": "assumption; current quarter role gap threshold"
+        },
+        {
+          "id": "H6",
+          "measure": "Self-service share vs 40% gate",
+          "source_ref": "BENEFITS adoption total",
+          "direction": "higher",
+          "green": 0.4,
+          "amber": 0.3,
+          "red": 0.3,
+          "amber_escalation": "Product owner",
+          "red_escalation": "Programme director; exec sponsor at the 31 Dec 2026 gate",
+          "basis": "assumption; 40% investor reporting adoption gate"
+        }
+      ]
+    }
+  },
+  "cadence": {
+    "basis": "assumption; operating cadence for delivery, vendor performance, and executive decisions",
+    "forums": [
+      {
+        "forum": "Weekly delivery review",
+        "frequency": "Weekly",
+        "chair": "Programme director",
+        "attends": "Workstream leads W1–W3, PMO",
+        "decides": "Milestone status, RAID updates, re-sequencing inside a workstream below the 10% scope threshold",
+        "pack": "PLAN milestones, top-five RAID, delivery health",
+        "basis": "assumption; delivery operating rhythm"
+      },
+      {
+        "forum": "Vendor performance forum",
+        "frequency": "Monthly",
+        "chair": "Vendor manager",
+        "attends": "Procurement, workstream leads, vendor account leads",
+        "decides": "Scorecard RAG, remediation checkpoints, recommendation to hold or release milestone payments",
+        "pack": "VENDORS scorecard and quality series, COMMERCIAL spend",
+        "basis": "assumption; vendor governance operating rhythm"
+      },
+      {
+        "forum": "SteerCo",
+        "frequency": "Fortnightly",
+        "chair": "Exec sponsor",
+        "attends": "Programme director, BU heads, Finance, Compliance",
+        "decides": "Exec sponsor approvals in the DACI (funding release tranche 2, vendor award or re-compete, regulatory commitment date); decisions get a D-number in the log",
+        "pack": "Pages 1–4",
+        "basis": "assumption; executive governance operating rhythm, consistent with DACI and escalation ladder"
+      }
+    ],
+    "managing_director_measures": [
+      {
+        "id": "H1",
+        "label": "H1 float to regulatory date",
+        "value_ref": "BENEFITS!C26",
+        "benchmark_ref": "BENEFITS!D26",
+        "basis": "Spec §9; formula references delivery-health H1"
+      },
+      {
+        "id": "H6",
+        "label": "H6 self-service share vs gate",
+        "value_ref": "BENEFITS!C31",
+        "benchmark_ref": "BENEFITS!D31",
+        "basis": "Spec §9; formula references delivery-health H6"
+      },
+      {
+        "id": "Contingency",
+        "label": "Contingency unallocated",
+        "value_ref": "ASSUMPTIONS unallocated contingency",
+        "benchmark_ref": "ASSUMPTIONS contingency",
+        "basis": "Spec §9; formula references contingency assumptions"
+      }
+    ]
+  },
+  "roadmap_transition": {
+    "collision_quarter": "Q2 2026",
+    "line3": "3",
+    "line6": "6",
+    "shared_role": "Data engineering",
+    "shared_requirement_fte": 6,
+    "line6_original_requirement_fte": 6,
+    "line6_replanned_quarter": "Q3 2026",
+    "line6_revised_requirement_fte": 4,
+    "basis": "Spec §10.2 / D4; Q2 collision and agreed replan after two reports moved to phase 2"
+  },
+  "pdf_metadata": {
+    "document_date": "2026-11-14",
+    "page_count": 7,
+    "page_index": [
+      {
+        "number": 1,
+        "title": "Cover",
+        "basis": "Spec §2 and locked Stage B2 brief v1.0, dated 14 Nov 2026"
+      },
+      {
+        "number": 2,
+        "title": "Portfolio",
+        "basis": "Spec §2 and locked Stage B2 brief v1.0, dated 14 Nov 2026"
+      },
+      {
+        "number": 3,
+        "title": "Governance",
+        "basis": "Spec §2 and locked Stage B2 brief v1.0, dated 14 Nov 2026"
+      },
+      {
+        "number": 4,
+        "title": "Vendor workforce",
+        "basis": "Spec §2 and locked Stage B2 brief v1.0, dated 14 Nov 2026"
+      },
+      {
+        "number": 5,
+        "title": "Is it working",
+        "basis": "Spec §2 and locked Stage B2 brief v1.0, dated 14 Nov 2026"
+      },
+      {
+        "number": 6,
+        "title": "Cadence",
+        "basis": "Spec §2 and locked Stage B2 brief v1.0, dated 14 Nov 2026"
+      },
+      {
+        "number": 7,
+        "title": "Appendix | Decision log",
+        "basis": "Kakali-approved Stage B2 fix, 14 Nov 2026; Spec §17"
+      }
+    ],
+    "basis": "Spec §2 and locked Stage B2 brief v1.0, dated 14 Nov 2026"
+  }
+}
